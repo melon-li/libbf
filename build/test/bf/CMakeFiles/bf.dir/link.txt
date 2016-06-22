@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -std=c++11 -O3 -DNDEBUG    CMakeFiles/bf.dir/bf.cc.o CMakeFiles/bf.dir/configuration.cc.o  -o bf -rdynamic ../../src/bf/libbf.so -Wl,-rpath,/root/libbf/build/src/bf 
