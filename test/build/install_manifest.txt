@@ -1,0 +1,14 @@
+/usr/local/include/bf.h
+/usr/local/include/bf/bitvector.h
+/usr/local/include/bf/wrap.h
+/usr/local/include/bf/object.h
+/usr/local/include/bf/bloom_filter/stable.h
+/usr/local/include/bf/bloom_filter/bitwise.h
+/usr/local/include/bf/bloom_filter/basic.h
+/usr/local/include/bf/bloom_filter/a2.h
+/usr/local/include/bf/bloom_filter/counting.h
+/usr/local/include/bf/h3.h
+/usr/local/include/bf/bloom_filter.h
+/usr/local/include/bf/hash.h
+/usr/local/include/bf/counter_vector.h
+/usr/local/lib/libbf.so

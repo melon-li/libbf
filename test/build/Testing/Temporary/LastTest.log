@@ -1,0 +1,76 @@
+Start testing: May 25 20:24 PDT
+----------------------------------------------------------
+1/1 Testing: unit
+1/1 Test: unit
+Command: "/root/libbf/build/test/bf-test"
+Directory: /root/libbf/build/test
+"unit" start time: May 25 20:24 PDT
+Output:
+----------------------------------------------------------
+[33m+----------------------------------------------------------------------+
+                                unnamed
++----------------------------------------------------------------------+[0m
+
+[33m- [0mcounter_vector_incrementing_width2
+[33m  -> [36m18[0m checks took [36m234 us[0m
+
+[33m- [0mcounter_vector_incrementing_width3
+[33m  -> [36m19[0m checks took [36m158 us[0m
+
+[33m- [0mcounter_vector_decrementing_width3
+[33m  -> [36m16[0m checks took [36m134 us[0m
+
+[33m- [0mcounter_vector_adding
+[33m  -> [36m19[0m checks took [36m146 us[0m
+
+[33m- [0mcounter_vector_adding_big
+[33m  -> [36m131073[0m checks took [36m470 ms[0m
+
+[33m- [0mcounter_vector_mergin
+[33m  -> [36m1[0m check took [36m115 us[0m
+
+[33m- [0mbloom_filter_basic
+[33m  -> [36m11[0m checks took [36m537 us[0m
+
+[33m- [0mbloom_filter_counting
+[33m  -> [36m6[0m checks took [36m385 us[0m
+
+[33m- [0mbloom_filter_spectral_mi
+[33m  -> [36m5[0m checks took [36m348 us[0m
+
+[33m- [0mbloom_filter_spectral_rm
+[33m  -> [36m1[0m check took [36m650 us[0m
+
+[33m- [0mbloom_filter_bitwise
+[33m  -> [36m9[0m checks took [36m662 us[0m
+
+[33m- [0mbloom_filter_stable
+[33m  -> [36m4[0m checks took [36m385 us[0m
+ ([32m0[0m/[31m4[0m)
+[33m- [0mbloom_filter_a2
+[33m  -> [36m4[0m checks took [36m649 us[0m
+
+
+[36m+----------------------------------------------------------------------+
+                                summary
++----------------------------------------------------------------------+[0m
+
+                        suites:  [33m1[0m
+                        tests:   [33m13[0m
+
+                        time:    [33m474 ms
+[0m                        success: [31m99%[0m
+
+                        failed tests:
+                        - unnamed:bloom_filter_stable
+
+[36m+----------------------------------------------------------------------+[0m
+<end of output>
+Test time =   0.48 sec
+----------------------------------------------------------
+Test Failed.
+"unit" end time: May 25 20:24 PDT
+"unit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 25 20:24 PDT

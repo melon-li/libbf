@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -std=c++11 -O3 -DNDEBUG    CMakeFiles/bf-test.dir/tests.cpp.o  -o bf-test -rdynamic ../src/bf/libbf.so -lpthread -Wl,-rpath,/root/libbf/build/src/bf 
