@@ -30,10 +30,8 @@ void a2_bloom_filter::add(object const& o)
   if (first_.lookup(o))
     return;
   first_.add(o);  // FIXME: do not hash object twice for better performance.
-//  std::cout<<"items_="<<items_<<" capacity_="<<capacity_<<std::endl;
   if (++items_ <= capacity_)
     return;
- // std::cout<<"clear second_ bloom filter"<<"items_="<<items_<<std::endl;
   items_ = 1;
   second_.clear();
   first_.swap(second_);
