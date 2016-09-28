@@ -59,7 +59,7 @@ void basic_bloom_filter::add(object const& o)
   }
 }
 
-size_t basic_bloom_filter::lookup(object const& o) const
+size_t basic_bloom_filter::lookup(object const& o)
 {
   auto digests = hasher_(o);
   assert(bits_.size() % digests.size() == 0);

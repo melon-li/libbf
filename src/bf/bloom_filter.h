@@ -33,7 +33,7 @@ public:
   /// @param x An instance of type `T`.
   /// @return A frequency estimate for *x*.
   template <typename T>
-  size_t lookup(T const& x) const
+  size_t lookup(T const& x)
   {
     return lookup(wrap(x));
   }
@@ -41,7 +41,7 @@ public:
   /// Retrieves the count of an element.
   /// @param o A wrapped object.
   /// @return A frequency estimate for *o*.
-  virtual size_t lookup(object const& o) const = 0;
+  virtual size_t lookup(object const& o) = 0;
 
   /// Removes all items from the Bloom filter.
   virtual void clear() = 0;

@@ -20,6 +20,10 @@ vector
 bf/wrap.h
 -
 
+../src/bf/bloom_filter/a2.h
+bf/bloom_filter/basic.h
+-
+
 ../src/bf/bloom_filter/basic.h
 random
 -
@@ -28,6 +32,32 @@ bf/bitvector.h
 bf/bloom_filter.h
 -
 bf/hash.h
+-
+
+../src/bf/bloom_filter/bitwise.h
+bf/bloom_filter/basic.h
+-
+
+../src/bf/bloom_filter/counting.h
+bf/counter_vector.h
+-
+bf/bloom_filter.h
+-
+bf/hash.h
+-
+
+../src/bf/bloom_filter/stable.h
+random
+-
+bf/bloom_filter/counting.h
+-
+
+../src/bf/counter_vector.h
+cstdint
+-
+vector
+-
+bf/bitvector.h
 -
 
 ../src/bf/h3.h
@@ -58,6 +88,14 @@ vector
 bf/object.h
 -
 
+/root/libbf/src/bf/bloom_filter/a2.cc
+bf/bloom_filter/a2.h
+-
+iostream
+-
+cassert
+-
+
 /root/libbf/src/bf/bloom_filter/basic.cc
 bf/bloom_filter/basic.h
 -
@@ -68,5 +106,23 @@ vector
 cassert
 -
 cmath
+-
+
+/root/libbf/src/bf/bloom_filter/bitwise.cc
+bf/bloom_filter/bitwise.h
+-
+
+/root/libbf/src/bf/bloom_filter/counting.cc
+bf/bloom_filter/counting.h
+-
+algorithm
+-
+cassert
+-
+
+/root/libbf/src/bf/bloom_filter/stable.cc
+bf/bloom_filter/stable.h
+-
+cassert
 -
 

@@ -17,7 +17,7 @@ int main()
 {
   //bf::basic_bloom_filter b(0.8, 100);
  size_t  end = 15000;
- size_t cap = 1000;
+ size_t cap =  1000;
  size_t cnt = 0;
  size_t c = 0;
  bf::a2_bloom_filter *b;

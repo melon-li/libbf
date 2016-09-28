@@ -190,7 +190,7 @@ HGCOMMAND:FILEPATH=HGCOMMAND-NOTFOUND
 MAKECOMMAND:STRING=/usr/bin/make -i
 
 //Path to the memory checking command, used for memory error detection.
-MEMORYCHECK_COMMAND:FILEPATH=MEMORYCHECK_COMMAND-NOTFOUND
+MEMORYCHECK_COMMAND:FILEPATH=/usr/bin/valgrind
 
 //File that contains suppressions for the memory checker
 MEMORYCHECK_SUPPRESSIONS_FILE:FILEPATH=
@@ -200,7 +200,7 @@ MEMORYCHECK_SUPPRESSIONS_FILE:FILEPATH=
 SCPCOMMAND:FILEPATH=/usr/bin/scp
 
 //Name of the computer/site where compile is being run
-SITE:STRING=sdnhubvm
+SITE:STRING=sinetcachingx
 
 //Path to the SLURM sbatch executable
 SLURM_SBATCH_COMMAND:FILEPATH=SLURM_SBATCH_COMMAND-NOTFOUND

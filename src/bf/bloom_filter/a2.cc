@@ -39,7 +39,7 @@ void a2_bloom_filter::add(object const& o)
   first_.add(o);
 }
 
-size_t a2_bloom_filter::lookup(object const& o) const
+size_t a2_bloom_filter::lookup(object const& o)
 {
   auto r1 = first_.lookup(o);
   if(r1>0) return r1;

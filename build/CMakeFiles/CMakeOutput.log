@@ -515,3 +515,123 @@ Linking C executable cmTryCompileExec2963260767
 make[1]: Leaving directory `/root/libbf/build/CMakeFiles/CMakeTmp'
 
 
+Determining if files pthread.h exist passed with the following output:
+Change Dir: /root/libbf/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1196515005/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1196515005.dir/build.make CMakeFiles/cmTryCompileExec1196515005.dir/build
+make[1]: Entering directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/libbf/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1196515005.dir/CheckIncludeFiles.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1196515005.dir/CheckIncludeFiles.c.o   -c /root/libbf/build/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec1196515005
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1196515005.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec1196515005.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec1196515005 -rdynamic 
+make[1]: Leaving directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /root/libbf/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1841479695/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1841479695.dir/build.make CMakeFiles/cmTryCompileExec1841479695.dir/build
+make[1]: Entering directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/libbf/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1841479695.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec1841479695.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec1841479695
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1841479695.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec1841479695.dir/CheckFunctionExists.c.o  -o cmTryCompileExec1841479695 -rdynamic -lpthread 
+make[1]: Leaving directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+
+
+Determining if files pthread.h exist passed with the following output:
+Change Dir: /root/libbf/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2761161056/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2761161056.dir/build.make CMakeFiles/cmTryCompileExec2761161056.dir/build
+make[1]: Entering directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/libbf/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2761161056.dir/CheckIncludeFiles.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec2761161056.dir/CheckIncludeFiles.c.o   -c /root/libbf/build/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec2761161056
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2761161056.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec2761161056.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec2761161056 -rdynamic 
+make[1]: Leaving directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /root/libbf/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1613295888/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1613295888.dir/build.make CMakeFiles/cmTryCompileExec1613295888.dir/build
+make[1]: Entering directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/libbf/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1613295888.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec1613295888.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec1613295888
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1613295888.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec1613295888.dir/CheckFunctionExists.c.o  -o cmTryCompileExec1613295888 -rdynamic -lpthread 
+make[1]: Leaving directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+
+
+Determining if files pthread.h exist passed with the following output:
+Change Dir: /root/libbf/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec898694100/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec898694100.dir/build.make CMakeFiles/cmTryCompileExec898694100.dir/build
+make[1]: Entering directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/libbf/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec898694100.dir/CheckIncludeFiles.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec898694100.dir/CheckIncludeFiles.c.o   -c /root/libbf/build/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec898694100
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec898694100.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec898694100.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec898694100 -rdynamic 
+make[1]: Leaving directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /root/libbf/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2084789281/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2084789281.dir/build.make CMakeFiles/cmTryCompileExec2084789281.dir/build
+make[1]: Entering directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/libbf/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2084789281.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec2084789281.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec2084789281
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2084789281.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec2084789281.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2084789281 -rdynamic -lpthread 
+make[1]: Leaving directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+
+
+Determining if files pthread.h exist passed with the following output:
+Change Dir: /root/libbf/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec4045554726/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec4045554726.dir/build.make CMakeFiles/cmTryCompileExec4045554726.dir/build
+make[1]: Entering directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/libbf/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4045554726.dir/CheckIncludeFiles.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec4045554726.dir/CheckIncludeFiles.c.o   -c /root/libbf/build/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec4045554726
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4045554726.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec4045554726.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec4045554726 -rdynamic 
+make[1]: Leaving directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /root/libbf/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2290710243/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2290710243.dir/build.make CMakeFiles/cmTryCompileExec2290710243.dir/build
+make[1]: Entering directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/libbf/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2290710243.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec2290710243.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec2290710243
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2290710243.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec2290710243.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2290710243 -rdynamic -lpthread 
+make[1]: Leaving directory `/home/ubuntu/libbf/build/CMakeFiles/CMakeTmp'
+
+

@@ -27,7 +27,7 @@ void bitwise_bloom_filter::add(object const& o)
   levels_.back().add(o);
 }
 
-size_t bitwise_bloom_filter::lookup(object const& o) const
+size_t bitwise_bloom_filter::lookup(object const& o)
 {
   size_t result = 0;
   for (size_t l = 0; l < levels_.size(); ++l)

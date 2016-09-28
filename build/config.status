@@ -1,2 +1,2 @@
 # This is the command used to configure this build
-CXX=gcc ./configure
+CXX=g++ ./configure

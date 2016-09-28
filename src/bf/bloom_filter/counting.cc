@@ -18,7 +18,7 @@ void counting_bloom_filter::add(object const& o)
   increment(find_indices(o));
 }
 
-size_t counting_bloom_filter::lookup(object const& o) const
+size_t counting_bloom_filter::lookup(object const& o)
 {
   auto min = cells_.max();
   for (auto i : find_indices(o))
@@ -170,7 +170,7 @@ void spectral_rm_bloom_filter::add(object const& o)
 // primary SBF. If so return the minimum. Otherwise, perform lookup for x in
 // secondary SBF. If [the] returned value is greater than 0, return it.
 // Otherwise, return minimum from primary SBF."
-size_t spectral_rm_bloom_filter::lookup(object const& o) const
+size_t spectral_rm_bloom_filter::lookup(object const& o) 
 {
   auto mins1 = first_.find_minima(first_.find_indices(o));
   auto min1 = first_.count(mins1[0]);
