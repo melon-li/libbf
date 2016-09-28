@@ -32,6 +32,7 @@ void a2_bloom_filter::add(object const& o)
   first_.add(o);  // FIXME: do not hash object twice for better performance.
   if (++items_ <= capacity_)
     return;
+//  std::cout<<"Libbf,a2_bloom_filter clear second BF"<<std::endl;
   items_ = 1;
   second_.clear();
   first_.swap(second_);
@@ -41,7 +42,9 @@ void a2_bloom_filter::add(object const& o)
 size_t a2_bloom_filter::lookup(object const& o) const
 {
   auto r1 = first_.lookup(o);
-  return r1 > 0 ? r1 : second_.lookup(o);
+  if(r1>0) return r1;
+  first_.add(o);
+  return second_.lookup(o);
 }
 
 void a2_bloom_filter::clear()
