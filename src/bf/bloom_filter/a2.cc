@@ -43,8 +43,9 @@ size_t a2_bloom_filter::lookup(object const& o)
 {
   auto r1 = first_.lookup(o);
   if(r1>0) return r1;
-  first_.add(o);
-  return second_.lookup(o);
+  auto r2 = second_.lookup(o);
+  if(r2>0) first_.add(o);
+  return r2;
 }
 
 void a2_bloom_filter::clear()

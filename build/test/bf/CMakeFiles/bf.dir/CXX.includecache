@@ -128,6 +128,12 @@ configuration.h
 bf.h
 /root/libbf/test/bf/bf.h
 
+/root/libbf/test/bf/configuration.cc
+configuration.h
+/root/libbf/test/bf/configuration.h
+sstream
+-
+
 /root/libbf/test/bf/configuration.h
 util/configuration.h
 /root/libbf/test/bf/util/configuration.h
