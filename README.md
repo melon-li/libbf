@@ -9,6 +9,7 @@ filters][blog-post], including:
 - A^2
 - Stable
 
+In this project, on the basis of the mavam project and the papar [1], We primarily repair A^2 bloom filter some bug!
 [blog-post]: http://matthias.vallentin.net/blog/2011/06/a-garden-variety-of-bloom-filters/
 
 Synopsis
@@ -52,7 +53,7 @@ script honors the `CXX` environment variable to select a specific C++compiler.
 For example, the following steps compile libbf with Clang and install it under
 `PREFIX`:
 
-    CXX=clang++ ./configure --prefix=PREFIX
+    CXX=g++ ./configure --prefix=PREFIX
     make
     make test
     make install
@@ -162,6 +163,8 @@ positives (`FP`), false negatives (`FN`), ground truth count (`G`), actual
 count (`C`), and the queried element. The counts are cumulative to support
 incremental evaluation.
 
+#Reference
+[1] Yoon M K. Aging bloom filter with two active buffers for dynamic sets[J]. IEEE Transactions on Knowledge and Data Engineering, 2010, 22(1): 134-138.
 License
 ========
 
