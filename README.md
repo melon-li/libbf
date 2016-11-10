@@ -9,7 +9,7 @@ filters][blog-post], including:
 - A^2
 - Stable
 
-In this project, on the basis of the mavam project and the papar [1], We primarily repair A^2 bloom filter some bug!
+**In this project, on the basis of the mavam project and the papar [1], We primarily repair A^2 bloom filter some bug!**
 [blog-post]: http://matthias.vallentin.net/blog/2011/06/a-garden-variety-of-bloom-filters/
 
 Synopsis
@@ -58,6 +58,7 @@ For example, the following steps compile libbf with Clang and install it under
     make test
     make install
 
+*Note: if it failed to 'make test', just jump it*
 Documentation
 =============
 
