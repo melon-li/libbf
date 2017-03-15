@@ -1,0 +1,143 @@
+#include "Cache.h"
+using namespace std;
+
+#define PKT_NUM 8
+#define QUEUE_SIZE 100
+bf::a2_bloom_filter *init_bf(double fp, size_t capacity){
+    size_t ka; //The number of hash function for fp
+    size_t cells; //bits, the number of cells to use
+    double fa = 1 - std::sqrt(1-fp);
+    printf("fp= %.4f, fa = %.4f\n", fp, fa);
+    ka = std::floor(-std::log(fa) / std::log(2));
+    cells = 2*ka*(capacity)/std::log(2);
+    std::cout<<"ka = "<<ka<<" cells = "<<cells<<std::endl;
+    return new bf::a2_bloom_filter{ka, cells, capacity, 1, 199};
+}
+
+void parseFileMap(vector<pair<string, uint32_t> > &workload,
+                  map<string, uint32_t> &filesMap){
+    std::ifstream myfile ("./workload_globetraff");
+    string file,line;
+    uint32_t packets=0;
+    uint64_t sum_packets=0;
+    while (getline(myfile, line)) {
+        file = (line.substr(0, line.find(" ")).c_str());
+        packets = atoi(line.substr(line.find(" ")+1).c_str());
+        workload.push_back(make_pair(file,  packets));
+        sum_packets += packets;
+        if (filesMap.find(file) == filesMap.end()) {
+            filesMap[file] = packets;
+        }
+    }
+    myfile.close();
+    std::cout << "ParseFileMape: Num_of_files: "<<workload.size()<<" data: "<<sum_packets<<endl;
+}
+
+int main()
+{
+  //bf::basic_bloom_filter b(0.8, 100);
+ size_t  end = 0;
+ size_t cap =  1000;
+ size_t cnt = 0;
+ size_t c = 0;
+ vector<pair<string, uint32_t> > workload;
+ map<string, uint32_t> filesMap;
+ list<pair<string, pair<uint32_t, uint32_t> > > curSendPkts;
+ set<string> data;
+ parseFileMap(workload, filesMap);
+ bf::a2_bloom_filter *b;
+ S_Cache sc(3579139, 4127, &filesMap, 0.001, false);
+ b = init_bf(0.001, 223696);
+ 
+ vector<pair<string, uint32_t> >::iterator it = workload.begin();
+ do{
+     while (it != workload.end()){
+         if (curSendPkts.size() >= QUEUE_SIZE) break;
+         curSendPkts.push_back(make_pair(it->first,
+                                         make_pair(it->second, it->second)));
+         it++;
+     }
+
+     // Request for data. 
+     list<pair<string, pair<uint32_t, uint32_t> > 
+          >::iterator pit = curSendPkts.begin();
+     while (pit != curSendPkts.end()) {
+         string key = "/D1/" + pit->first;
+         uint32_t idx = pit->second.first - pit->second.second + 1;
+         sc.get_cached_packet(key, to_string(idx));
+         pit++;
+     }
+
+    // Response data.
+    pit = curSendPkts.begin();
+    while (pit != curSendPkts.end()) {
+         string key = "/D1/" + pit->first;
+         uint32_t idx = pit->second.first - pit->second.second + 1;
+         pit->second.second--;
+         sc.cache_packet(key, to_string(idx), NULL);
+         
+         // For comparison with the S_Cache algorithm.
+          //key = "/D1/" + key + "-";
+          //key.append(to_string((idx/PKT_NUM)*PKT_NUM));
+          //end++;
+          //if (b->lookup(key)){
+              //if (data.find(key) == data.end()) {
+                  //cnt++;
+                  //b->add(key.c_str());
+                  //data.insert(key);
+              //}
+          //} else {
+              //b->add(key.c_str());
+              //data.insert(key);
+          //}
+
+         if (idx == pit->second.first) {
+             pit = curSendPkts.erase(pit);
+         } else {
+             pit++;
+         }
+     }
+ }while (!curSendPkts.empty());
+
+  //for (map<string, uint32_t>::iterator it = workload.begin();
+       //it != workload.end(); it++){
+      //uint32_t packets = it->second;
+      //for (int i = 1; i <= packets; i++){
+          ////sc.get_cached_packet(it->first, to_string(i));
+          //sc.cache_packet(it->first, to_string(i), NULL);
+      //}
+  //}
+  cout<<"false_positive_cnt = " << sc.false_positive_cnt
+    << "fp = " << (float(sc.false_positive_cnt)/(sc.read_dram_cnt + sc.miss - sc.false_positive_cnt))
+    << " read_dram_cnt = " << sc.read_dram_cnt 
+    << " miss = " << sc.miss
+    << " hits = " << sc.hits
+    << " slow_memory_hits = " << sc.slow_memory_hit
+    << " fast_memory_hits = " << sc.fast_memory_hit << "\n"
+    << "fp_w = " << (float(sc.false_positive_cnt_w)/(sc.cache_packet_bf_lookup))
+    << " false_positive_cnt_w = " << sc.false_positive_cnt_w
+    << " false_positive_cnt_w_test = " << sc.false_positive_cnt_w_test
+    << " cache_packet_bf_lookup = " << sc.cache_packet_bf_lookup << endl;
+   cout<<endl;
+   cout<<endl;
+
+  //b = init_bf(0.001, 223696);
+  //for (vector<string, uint32_t>::iterator it = workload.begin();
+       //it != workload.end(); it++){
+      //uint32_t packets = it->second;
+      //for (int i = 0; i <= packets/PKT_NUM; i++){
+          //string key = it->first + "-";
+          //key.append(to_string(i));
+          //end++;
+          //if (b->lookup(key)){
+              //if (data.find(key) != data.end()) continue;
+              //cnt++;
+          //}
+          //b->add(key.c_str());
+          //data.insert(key);
+      //}
+  //}
+  printf("fp=%.4f\n", float(cnt)/float(end));
+  printf("cnt=%d, end=%d\n", cnt, end);
+  return 0;
+}

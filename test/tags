@@ -1,0 +1,1086 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACCESS_LINK_CAPACITY	Cache.h	70;"	d
+ACCESS_LINK_DELAY	Cache.h	58;"	d
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	298;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	301;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	304;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	307;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	310;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	313;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	316;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	320;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	291;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	297;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	300;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	303;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	306;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	309;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	313;"	d	file:
+BF_BITVECTOR_H	src/bf/bitvector.h	2;"	d
+BF_BLOOM_FILTER_A2_H	src/bf/bloom_filter/a2.h	2;"	d
+BF_BLOOM_FILTER_BASIC_H	src/bf/bloom_filter/basic.h	2;"	d
+BF_BLOOM_FILTER_BITWISE_H	src/bf/bloom_filter/bitwise.h	2;"	d
+BF_BLOOM_FILTER_COUNTING_H	src/bf/bloom_filter/counting.h	2;"	d
+BF_BLOOM_FILTER_H	src/bf/bloom_filter.h	2;"	d
+BF_BLOOM_FILTER_STABLE_H	src/bf/bloom_filter/stable.h	2;"	d
+BF_COUNTER_VECTOR_H	src/bf/counter_vector.h	2;"	d
+BF_H	src/bf.h	2;"	d
+BF_H3_H	src/bf/h3.h	2;"	d
+BF_HASH_POLICY_H	src/bf/hash.h	2;"	d
+BF_OBJECT_H	src/bf/object.h	2;"	d
+BF_WRAP_H	src/bf/wrap.h	2;"	d
+CACHE_CAPACITY	Cache.h	78;"	d
+CACHE_H_	Cache.h	13;"	d
+CACHE_MODE	Cache.h	79;"	d
+CACHING_START_INDEX	Cache.h	96;"	d
+CAF_CHECK	unit_test.hpp	444;"	d
+CAF_CHECK_EQUAL	unit_test.hpp	556;"	d
+CAF_CHECK_FAIL	unit_test.hpp	477;"	d
+CAF_CHECK_FUNC	unit_test.hpp	465;"	d
+CAF_CHECK_GREATER	unit_test.hpp	560;"	d
+CAF_CHECK_GREATER_EQUAL	unit_test.hpp	561;"	d
+CAF_CHECK_LESS	unit_test.hpp	558;"	d
+CAF_CHECK_LESS_EQUAL	unit_test.hpp	559;"	d
+CAF_CHECK_NOT_EQUAL	unit_test.hpp	557;"	d
+CAF_CHECK_PRED	unit_test.hpp	453;"	d
+CAF_ERROR	unit_test.hpp	435;"	d
+CAF_FAIL	unit_test.hpp	486;"	d
+CAF_FUNC_EXPR	unit_test.hpp	433;"	d
+CAF_MESSAGE	unit_test.hpp	571;"	d
+CAF_PASTE	unit_test.hpp	420;"	d
+CAF_PASTE_CONCAT	unit_test.hpp	418;"	d
+CAF_PRED_EXPR	unit_test.hpp	432;"	d
+CAF_REQUIRE	unit_test.hpp	494;"	d
+CAF_REQUIRE_EQUAL	unit_test.hpp	564;"	d
+CAF_REQUIRE_FUNC	unit_test.hpp	523;"	d
+CAF_REQUIRE_GREATER	unit_test.hpp	568;"	d
+CAF_REQUIRE_GREATER_EQUAL	unit_test.hpp	569;"	d
+CAF_REQUIRE_LESS	unit_test.hpp	566;"	d
+CAF_REQUIRE_LESS_EQUAL	unit_test.hpp	567;"	d
+CAF_REQUIRE_NOT_EQUAL	unit_test.hpp	565;"	d
+CAF_REQUIRE_PRED	unit_test.hpp	507;"	d
+CAF_STR	unit_test.hpp	428;"	d
+CAF_SUITE	test.hpp	5;"	d
+CAF_SUITE	unit_test.hpp	425;"	d
+CAF_TEST	unit_test.hpp	539;"	d
+CAF_TEST_FIXTURE_SCOPE	unit_test.hpp	549;"	d
+CAF_TEST_FIXTURE_SCOPE_END	unit_test.hpp	552;"	d
+CAF_TEST_PRINT	unit_test.hpp	408;"	d
+CAF_TEST_PRINT_ERROR	unit_test.hpp	414;"	d
+CAF_TEST_PRINT_INFO	unit_test.hpp	415;"	d
+CAF_TEST_PRINT_VERBOSE	unit_test.hpp	416;"	d
+CAF_TEST_UNIT_TEST_HPP	unit_test.hpp	21;"	d
+CAF_TEST_UNIT_TEST_IMPL_HPP	unit_test_impl.hpp	21;"	d
+CAF_UNIQUE	unit_test.hpp	422;"	d
+CAF_XSTR	unit_test.hpp	430;"	d
+CCN_PROTO	Cache.h	48;"	d
+CHECK	test.hpp	24;"	d
+CHECK_EQUAL	test.hpp	25;"	d
+CHECK_FAIL	test.hpp	26;"	d
+CHUNK	city.cc	538;"	d	file:
+CHUNK	city.cc	539;"	d	file:
+CITY_HASH_CRC_H_	citycrc.h	29;"	d
+CITY_HASH_H_	city.h	63;"	d
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/root\/libbf\/build$/;"	m
+CMAKE_BINARY_DIR	build/src/Makefile	/^CMAKE_BINARY_DIR = \/root\/libbf\/build$/;"	m
+CMAKE_BINARY_DIR	build/src/bf/Makefile	/^CMAKE_BINARY_DIR = \/root\/libbf\/build$/;"	m
+CMAKE_BINARY_DIR	build/test/Makefile	/^CMAKE_BINARY_DIR = \/root\/libbf\/build$/;"	m
+CMAKE_BINARY_DIR	build/test/bf/Makefile	/^CMAKE_BINARY_DIR = \/root\/libbf\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/src/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/src/bf/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/test/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_COMMAND	build/test/bf/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/root\/libbf$/;"	m
+CMAKE_SOURCE_DIR	build/src/Makefile	/^CMAKE_SOURCE_DIR = \/root\/libbf$/;"	m
+CMAKE_SOURCE_DIR	build/src/bf/Makefile	/^CMAKE_SOURCE_DIR = \/root\/libbf$/;"	m
+CMAKE_SOURCE_DIR	build/test/Makefile	/^CMAKE_SOURCE_DIR = \/root\/libbf$/;"	m
+CMAKE_SOURCE_DIR	build/test/bf/Makefile	/^CMAKE_SOURCE_DIR = \/root\/libbf$/;"	m
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	160;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	165;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	177;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	194;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	197;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	200;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	44;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	50;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	70;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	77;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	88;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	90;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	99;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	127;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	135;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	154;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	162;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	193;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	49;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	55;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	61;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	75;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	82;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	93;"	d	file:
+COMPILER_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	100;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	108;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	114;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	135;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	154;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	15;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	172;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	180;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	185;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	39;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	64;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	72;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	79;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	93;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	14;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	156;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	173;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	178;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	20;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	69;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	101;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	109;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	115;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	127;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	136;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	181;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	186;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	26;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	47;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	60;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	65;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	73;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	94;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	106;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	114;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	120;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	31;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	39;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	70;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	78;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	99;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	129;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	143;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	156;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	174;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	17;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	187;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	35;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	41;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	61;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	74;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	81;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	95;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	100;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	121;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	22;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	40;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	66;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	79;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	86;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	147;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	20;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+CONFIGURATION_H	bf/configuration.h	2;"	d
+CacheModule	Cache.h	/^    CacheModule(uint64_t _capacity,uint64_t _capacity_fast_table){$/;"	f	class:CacheModule
+CacheModule	Cache.h	/^class CacheModule{$/;"	c
+Cachetable	Cache.h	/^typedef map<string, Pkts > Cachetable;$/;"	t
+CityHash128	city.cc	/^uint128 CityHash128(const char *s, size_t len) {$/;"	f
+CityHash128WithSeed	city.cc	/^uint128 CityHash128WithSeed(const char *s, size_t len, uint128 seed) {$/;"	f
+CityHash32	city.cc	/^uint32 CityHash32(const char *s, size_t len) {$/;"	f
+CityHash64	city.cc	/^uint64 CityHash64(const char *s, size_t len) {$/;"	f
+CityHash64WithSeed	city.cc	/^uint64 CityHash64WithSeed(const char *s, size_t len, uint64 seed) {$/;"	f
+CityHash64WithSeeds	city.cc	/^uint64 CityHash64WithSeeds(const char *s, size_t len,$/;"	f
+CityHashCrc128	city.cc	/^uint128 CityHashCrc128(const char *s, size_t len) {$/;"	f
+CityHashCrc128WithSeed	city.cc	/^uint128 CityHashCrc128WithSeed(const char *s, size_t len, uint128 seed) {$/;"	f
+CityHashCrc256	city.cc	/^void CityHashCrc256(const char *s, size_t len, uint64 *result) {$/;"	f
+CityHashCrc256Long	city.cc	/^static void CityHashCrc256Long(const char *s, size_t len,$/;"	f	file:
+CityHashCrc256Short	city.cc	/^static void CityHashCrc256Short(const char *s, size_t len, uint64 *result) {$/;"	f	file:
+CityMurmur	city.cc	/^static uint128 CityMurmur(const char *s, size_t len, uint128 seed) {$/;"	f	file:
+DEC	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	324;"	d	file:
+DEC	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	317;"	d	file:
+DIRS	Makefile	/^DIRS := build$/;"	m
+DRAM_ACCESS_TIME	Cache.h	104;"	d
+DRAM_CACHE_MODE	Cache.h	83;"	d
+DRAM_OLD_ACCESS_TIME	Cache.h	105;"	d
+DRAM_SIZE	Cache.h	92;"	d
+ENABLE_AGGREGATION	Cache.h	46;"	d
+ENABLE_CONGESTION_CONTROL	Cache.h	63;"	d
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/src/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/src/bf/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/test/Makefile	/^EQUALS = =$/;"	m
+EQUALS	build/test/bf/Makefile	/^EQUALS = =$/;"	m
+ERROR	test.hpp	11;"	d
+FAIL	test.hpp	27;"	d
+FILE_NUM	Cache.h	91;"	d
+FIXTURE_SCOPE	test.hpp	18;"	d
+FIXTURE_SCOPE_END	test.hpp	19;"	d
+Fetch32	city.cc	/^static uint32 Fetch32(const char *p) {$/;"	f	file:
+Fetch64	city.cc	/^static uint64 Fetch64(const char *p) {$/;"	f	file:
+Files	Cache.h	/^    typedef vector<Pkts> Files;$/;"	t	class:Slot_Object
+HAVE_BUILTIN_EXPECT	config.h	8;"	d
+HAVE_DLFCN_H	config.h	11;"	d
+HAVE_INTTYPES_H	config.h	14;"	d
+HAVE_MEMORY_H	config.h	17;"	d
+HAVE_STDINT_H	config.h	20;"	d
+HAVE_STDLIB_H	config.h	23;"	d
+HAVE_STRINGS_H	config.h	26;"	d
+HAVE_STRING_H	config.h	29;"	d
+HAVE_SYS_STAT_H	config.h	32;"	d
+HAVE_SYS_TYPES_H	config.h	35;"	d
+HAVE_UNISTD_H	config.h	38;"	d
+HEX	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	335;"	d	file:
+HEX	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	328;"	d	file:
+Hash128to64	city.h	/^inline uint64 Hash128to64(const uint128& x) {$/;"	f
+Hash32Len0to4	city.cc	/^static uint32 Hash32Len0to4(const char *s, size_t len) {$/;"	f	file:
+Hash32Len13to24	city.cc	/^static uint32 Hash32Len13to24(const char *s, size_t len) {$/;"	f	file:
+Hash32Len5to12	city.cc	/^static uint32 Hash32Len5to12(const char *s, size_t len) {$/;"	f	file:
+HashLen0to16	city.cc	/^static uint64 HashLen0to16(const char *s, size_t len) {$/;"	f	file:
+HashLen16	city.cc	/^static uint64 HashLen16(uint64 u, uint64 v) {$/;"	f	file:
+HashLen16	city.cc	/^static uint64 HashLen16(uint64 u, uint64 v, uint64 mul) {$/;"	f	file:
+HashLen17to32	city.cc	/^static uint64 HashLen17to32(const char *s, size_t len) {$/;"	f	file:
+HashLen33to64	city.cc	/^static uint64 HashLen33to64(const char *s, size_t len) {$/;"	f	file:
+ID_VOID_MAIN	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	9;"	d	file:
+INFO	test.hpp	12;"	d
+LIKELY	city.cc	106;"	d	file:
+LIKELY	city.cc	108;"	d	file:
+LINK_CAPACITY	Cache.h	68;"	d
+LINK_DELAY	Cache.h	57;"	d
+LINK_THROUGHTPUT	Cache.h	71;"	d
+LRU	Cache.h	/^    LRU_Table *LRU;$/;"	m	class:CacheModule
+LRU_ACCESS_TIME	Cache.h	36;"	d
+LRU_ENTRY_SIZE	Cache.h	38;"	d
+LRU_Object	Cache.h	/^    LRU_Object(){}$/;"	f	class:LRU_Object
+LRU_Object	Cache.h	/^    LRU_Object(const string & _filename){$/;"	f	class:LRU_Object
+LRU_Object	Cache.h	/^class LRU_Object{$/;"	c
+LRU_RATE	Cache.h	35;"	d
+LRU_Table	Cache.h	/^    LRU_Table(){$/;"	f	class:LRU_Table
+LRU_Table	Cache.h	/^class LRU_Table{$/;"	c
+LRU_W	Cache.h	/^    LRU_Table *LRU_W;$/;"	m	class:S_Cache
+LT_OBJDIR	config.h	42;"	d
+MAX_LOG_CHUNK_ID	Cache.h	97;"	d
+MESSAGE	test.hpp	14;"	d
+Mur	city.cc	/^static uint32 Mur(uint32 a, uint32 h) {$/;"	f	file:
+NODES_TYPE	Cache.h	100;"	d
+NS_ASSERT_MSG	Cache.cc	/^void NS_ASSERT_MSG(bool condition, string str){$/;"	f
+NUMBER_OF_RUNS	Cache.h	49;"	d
+Name2index	Cache.h	/^    typedef map<string, uint8_t> Name2index;$/;"	t	class:Slot_Object
+OBJECT_CACHE_MODE	Cache.h	81;"	d
+OPC_ENTRY_SIZE	Cache.h	39;"	d
+OPT_RATIO	Cache.h	43;"	d
+PACKAGE_BUGREPORT	config.h	45;"	d
+PACKAGE_NAME	config.h	48;"	d
+PACKAGE_STRING	config.h	51;"	d
+PACKAGE_TARNAME	config.h	54;"	d
+PACKAGE_URL	config.h	57;"	d
+PACKAGE_VERSION	config.h	60;"	d
+PACKET_CACHE_MODE	Cache.h	80;"	d
+PAYLOAD_SIZE	Cache.h	75;"	d
+PERMUTE3	city.cc	145;"	d	file:
+PERMUTE3	city.cc	146;"	d	file:
+PKT_NUM	Cache.h	90;"	d
+PKT_NUM	test.cc	4;"	d	file:
+PKT_SIZE	Cache.h	87;"	d
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	212;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	215;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	218;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	221;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	224;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	227;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	233;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	236;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	242;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	245;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	248;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	251;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	254;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	257;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	260;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	263;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	266;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	269;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	272;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	275;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	278;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	281;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	284;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	287;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	205;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	211;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	214;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	220;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	223;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	226;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	235;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	238;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	241;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	250;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	253;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	256;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	259;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	262;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	265;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	268;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	271;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	274;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	277;"	d	file:
+PLATFORM_ID	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	280;"	d	file:
+Pkts	Cache.h	/^typedef map<uint32_t, char *> Pkts;$/;"	t
+QUEUE_MAX_NPACKETS	Cache.h	88;"	d
+REPO	doc/Makefile	/^REPO := git@github.com:mavam\/libbf.git$/;"	m
+REQUIRE	test.hpp	22;"	d
+REQUIRE_EQUAL	test.hpp	23;"	d
+REQ_SIZE	Cache.h	76;"	d
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/src/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/src/bf/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/test/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+RM	build/test/bf/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+ROOT_DOMAIN	Cache.h	51;"	d
+Rotate	city.cc	/^static uint64 Rotate(uint64 val, int shift) {$/;"	f	file:
+Rotate32	city.cc	/^static uint32 Rotate32(uint32 val, int shift) {$/;"	f	file:
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/src/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/src/bf/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/test/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHELL	build/test/bf/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SRAM_ACCESS_TIME	Cache.h	103;"	d
+SRAM_CACHE_MODE	Cache.h	82;"	d
+STDC_HEADERS	config.h	63;"	d
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/src/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/src/bf/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/test/Makefile	/^SUFFIXES =$/;"	m
+SUFFIXES	build/test/bf/Makefile	/^SUFFIXES =$/;"	m
+S_Cache	Cache.h	/^    S_Cache(uint64_t _capacity,$/;"	f	class:S_Cache
+S_Cache	Cache.h	/^class S_Cache:public CacheModule{$/;"	c
+ShiftMix	city.cc	/^static uint64 ShiftMix(uint64 val) {$/;"	f	file:
+Slot_Object	Cache.h	/^    Slot_Object(){}$/;"	f	class:Slot_Object
+Slot_Object	Cache.h	/^class Slot_Object{$/;"	c
+TEST	test.hpp	17;"	d
+TEST	tests.cpp	/^TEST(bloom_filter_a2) {$/;"	f
+TEST	tests.cpp	/^TEST(bloom_filter_basic) {$/;"	f
+TEST	tests.cpp	/^TEST(bloom_filter_bitwise) {$/;"	f
+TEST	tests.cpp	/^TEST(bloom_filter_counting) {$/;"	f
+TEST	tests.cpp	/^TEST(bloom_filter_spectral_mi) {$/;"	f
+TEST	tests.cpp	/^TEST(bloom_filter_spectral_rm) {$/;"	f
+TEST	tests.cpp	/^TEST(bloom_filter_stable) {$/;"	f
+TEST	tests.cpp	/^TEST(counter_vector_adding) {$/;"	f
+TEST	tests.cpp	/^TEST(counter_vector_adding_big) {$/;"	f
+TEST	tests.cpp	/^TEST(counter_vector_decrementing_width3) {$/;"	f
+TEST	tests.cpp	/^TEST(counter_vector_incrementing_width2) {$/;"	f
+TEST	tests.cpp	/^TEST(counter_vector_incrementing_width3) {$/;"	f
+TEST	tests.cpp	/^TEST(counter_vector_mergin) {$/;"	f
+TEST_TEST_H	test.hpp	2;"	d
+THRESHOLD_NPACKETS	Cache.h	89;"	d
+TTL	Cache.h	59;"	d
+UNALIGNED_LOAD32	city.cc	/^static uint32 UNALIGNED_LOAD32(const char *p) {$/;"	f	file:
+UNALIGNED_LOAD64	city.cc	/^static uint64 UNALIGNED_LOAD64(const char *p) {$/;"	f	file:
+USER_EXPERIENCED_RATE	Cache.h	72;"	d
+UTIL_CONFIGURATION_H	bf/util/configuration.h	2;"	d
+UTIL_ERROR_H	bf/util/error.h	2;"	d
+UTIL_TRIAL_H	bf/util/trial.h	2;"	d
+Uint128High64	city.h	/^inline uint64 Uint128High64(const uint128& x) { return x.second; }$/;"	f
+Uint128Low64	city.h	/^inline uint64 Uint128Low64(const uint128& x) { return x.first; }$/;"	f
+VERBOSE	test.hpp	13;"	d
+WIDTH	Cache.h	86;"	d
+WORDS_BIGENDIAN	config.h	69;"	d
+WeakHashLen32WithSeeds	city.cc	/^static pair<uint64, uint64> WeakHashLen32WithSeeds($/;"	f	file:
+ZIPF_A	Cache.h	52;"	d
+a2_bloom_filter	src/bf/bloom_filter/a2.cc	/^a2_bloom_filter::a2_bloom_filter(size_t k, size_t cells, size_t capacity,$/;"	f	class:bf::a2_bloom_filter
+a2_bloom_filter	src/bf/bloom_filter/a2.h	/^class a2_bloom_filter : public bloom_filter$/;"	c	namespace:bf
+add	bf/util/configuration.h	/^    option& add(char shortcut, std::string const& name, std::string desc)$/;"	f	class:util::configuration::block
+add	bf/util/configuration.h	/^    option& add(std::string const& name, std::string desc)$/;"	f	class:util::configuration::block
+add	src/bf/bloom_filter.h	/^  void add(T const& x)$/;"	f	class:bf::bloom_filter
+add	src/bf/bloom_filter/a2.cc	/^void a2_bloom_filter::add(object const& o)$/;"	f	class:bf::a2_bloom_filter
+add	src/bf/bloom_filter/basic.cc	/^void basic_bloom_filter::add(object const& o)$/;"	f	class:bf::basic_bloom_filter
+add	src/bf/bloom_filter/bitwise.cc	/^void bitwise_bloom_filter::add(object const& o)$/;"	f	class:bf::bitwise_bloom_filter
+add	src/bf/bloom_filter/counting.cc	/^void counting_bloom_filter::add(object const& o)$/;"	f	class:bf::counting_bloom_filter
+add	src/bf/bloom_filter/counting.cc	/^void spectral_mi_bloom_filter::add(object const& o)$/;"	f	class:bf::spectral_mi_bloom_filter
+add	src/bf/bloom_filter/counting.cc	/^void spectral_rm_bloom_filter::add(object const& o)$/;"	f	class:bf::spectral_rm_bloom_filter
+add	src/bf/bloom_filter/stable.cc	/^void stable_bloom_filter::add(object const& o)$/;"	f	class:bf::stable_bloom_filter
+add	unit_test_impl.hpp	/^void engine::add(const char* cstr_name, std::unique_ptr<test> ptr) {$/;"	f	class:caf::test::engine
+add_conflict	bf/util/configuration.h	/^  void add_conflict(std::string opt1, std::string opt2)$/;"	f	class:util::configuration
+add_dependencies	bf/util/configuration.h	/^  void add_dependencies(std::string needy, std::vector<std::string> required)$/;"	f	class:util::configuration
+add_dependency	bf/util/configuration.h	/^  void add_dependency(std::string needy, std::string required)$/;"	f	class:util::configuration
+add_object	Cache.cc	/^void LRU_Table::add_object(LRU_Object* obj){$/;"	f	class:LRU_Table
+add_packet	Cache.cc	/^int64_t S_Cache::add_packet(const string& key, $/;"	f	class:S_Cache
+add_packet	Cache.h	/^    virtual int64_t add_packet(const string& _filename, const string& ID, const char* _payload, const bool is_first_packet){return 0;}$/;"	f	class:CacheModule
+adder	unit_test.hpp	/^  adder(const char* suite_name, const char* test_name) {$/;"	f	struct:caf::test::logger::detail::adder
+adder	unit_test.hpp	/^struct adder {$/;"	s	namespace:caf::test::logger::detail
+append	src/bf/bitvector.cc	/^void bitvector::append(block_type block)$/;"	f	class:bf::bitvector
+append	src/bf/bitvector.h	/^  void append(Iterator first, Iterator last)$/;"	f	class:bf::bitvector
+append_cache_entry	configure	/^append_cache_entry () {$/;"	f
+argc	unit_test_impl.hpp	/^int engine::argc() {$/;"	f	class:caf::test::engine
+argc_	unit_test.hpp	/^  int argc_ = 0;$/;"	m	class:caf::test::logger::engine
+args	unit_test_impl.hpp	/^void engine::args(int argc, char** argv) {$/;"	f	class:caf::test::engine
+argv	unit_test_impl.hpp	/^char** engine::argv() {$/;"	f	class:caf::test::engine
+argv_	unit_test.hpp	/^  char** argv_ = nullptr;$/;"	m	class:caf::test::logger::engine
+as	bf/util/configuration.h	/^  trial<T> as(std::string const& opt) const$/;"	f	class:util::configuration
+available_suites	unit_test_impl.hpp	/^std::vector<std::string> engine::available_suites() {$/;"	f	class:caf::test::engine
+bad	unit_test.hpp	/^  inline size_t bad() {$/;"	f	class:caf::test::test
+bad_	unit_test.hpp	/^  size_t bad_;$/;"	m	class:caf::test::test
+banner	bf/configuration.cc	/^std::string config::banner() const$/;"	f	class:config
+basic_bloom_filter	src/bf/bloom_filter/basic.cc	/^basic_bloom_filter::basic_bloom_filter(basic_bloom_filter&& other)$/;"	f	class:bf::basic_bloom_filter
+basic_bloom_filter	src/bf/bloom_filter/basic.cc	/^basic_bloom_filter::basic_bloom_filter(double fp, size_t capacity, size_t seed,$/;"	f	class:bf::basic_bloom_filter
+basic_bloom_filter	src/bf/bloom_filter/basic.cc	/^basic_bloom_filter::basic_bloom_filter(hasher h, size_t cells, bool partition)$/;"	f	class:bf::basic_bloom_filter
+basic_bloom_filter	src/bf/bloom_filter/basic.h	/^class basic_bloom_filter : public bloom_filter$/;"	c	namespace:bf
+bf	src/bf/bitvector.cc	/^namespace bf {$/;"	n	file:
+bf	src/bf/bitvector.h	/^namespace bf {$/;"	n
+bf	src/bf/bloom_filter.h	/^namespace bf {$/;"	n
+bf	src/bf/bloom_filter/a2.cc	/^namespace bf {$/;"	n	file:
+bf	src/bf/bloom_filter/a2.h	/^namespace bf {$/;"	n
+bf	src/bf/bloom_filter/basic.cc	/^namespace bf {$/;"	n	file:
+bf	src/bf/bloom_filter/basic.h	/^namespace bf {$/;"	n
+bf	src/bf/bloom_filter/bitwise.cc	/^namespace bf {$/;"	n	file:
+bf	src/bf/bloom_filter/bitwise.h	/^namespace bf {$/;"	n
+bf	src/bf/bloom_filter/counting.cc	/^namespace bf {$/;"	n	file:
+bf	src/bf/bloom_filter/counting.h	/^namespace bf {$/;"	n
+bf	src/bf/bloom_filter/stable.cc	/^namespace bf {$/;"	n	file:
+bf	src/bf/bloom_filter/stable.h	/^namespace bf {$/;"	n
+bf	src/bf/counter_vector.cc	/^namespace bf {$/;"	n	file:
+bf	src/bf/counter_vector.h	/^namespace bf {$/;"	n
+bf	src/bf/h3.h	/^namespace bf {$/;"	n
+bf	src/bf/hash.cc	/^namespace bf {$/;"	n	file:
+bf	src/bf/hash.h	/^namespace bf {$/;"	n
+bf	src/bf/object.h	/^namespace bf {$/;"	n
+bf	src/bf/wrap.h	/^namespace bf {$/;"	n
+bit_index	src/bf/bitvector.h	/^  static block_type constexpr bit_index(size_type i)$/;"	f	class:bf::bitvector
+bit_mask	src/bf/bitvector.h	/^  static block_type constexpr bit_mask(size_type i)$/;"	f	class:bf::bitvector
+bits_	src/bf/bitvector.h	/^  std::vector<block_type> bits_;$/;"	m	class:bf::bitvector
+bits_	src/bf/bloom_filter/basic.h	/^  bitvector bits_;$/;"	m	class:bf::basic_bloom_filter
+bits_	src/bf/counter_vector.h	/^  bitvector bits_;$/;"	m	class:bf::counter_vector
+bits_per_block	src/bf/bitvector.h	/^  static block_type constexpr bits_per_block = $/;"	m	class:bf::bitvector
+bits_per_byte	src/bf/h3.h	/^  static size_t const bits_per_byte =$/;"	m	class:bf::h3
+bits_to_blocks	src/bf/bitvector.h	/^  static size_type constexpr bits_to_blocks(size_type bits)$/;"	f	class:bf::bitvector
+bitvector	src/bf/bitvector.cc	/^bitvector::bitvector()$/;"	f	class:bf::bitvector
+bitvector	src/bf/bitvector.cc	/^bitvector::bitvector(bitvector const& other)$/;"	f	class:bf::bitvector
+bitvector	src/bf/bitvector.cc	/^bitvector::bitvector(bitvector&& other)$/;"	f	class:bf::bitvector
+bitvector	src/bf/bitvector.cc	/^bitvector::bitvector(size_type size, bool value)$/;"	f	class:bf::bitvector
+bitvector	src/bf/bitvector.h	/^  bitvector(InputIterator first, InputIterator last)$/;"	f	class:bf::bitvector
+bitvector	src/bf/bitvector.h	/^class bitvector$/;"	c	namespace:bf
+bitwise_bloom_filter	src/bf/bloom_filter/bitwise.cc	/^bitwise_bloom_filter::bitwise_bloom_filter(size_t k, size_t cells, size_t seed)$/;"	f	class:bf::bitwise_bloom_filter
+bitwise_bloom_filter	src/bf/bloom_filter/bitwise.h	/^class bitwise_bloom_filter : public bloom_filter$/;"	c	namespace:bf
+black	unit_test.hpp	/^  black,$/;"	e	enum:caf::test::logger::color_value
+block	bf/util/configuration.h	/^    block(block&& other)$/;"	f	class:util::configuration::block
+block	bf/util/configuration.h	/^    block(std::string name, std::string prefix, configuration* config)$/;"	f	class:util::configuration::block
+block	bf/util/configuration.h	/^  class block$/;"	c	class:util::configuration
+block_	src/bf/bitvector.h	/^    block_type& block_;$/;"	m	class:bf::bitvector::reference
+block_index	src/bf/bitvector.h	/^  static size_type constexpr block_index(size_type i)$/;"	f	class:bf::bitvector
+block_type	src/bf/bitvector.cc	/^typedef bitvector::block_type block_type;$/;"	t	namespace:bf	file:
+block_type	src/bf/bitvector.h	/^  typedef size_t block_type;$/;"	t	class:bf::bitvector
+blocks	src/bf/bitvector.cc	/^size_type bitvector::blocks() const$/;"	f	class:bf::bitvector
+blocks_	bf/util/configuration.h	/^  std::vector<block> blocks_;$/;"	m	class:util::configuration
+bloom_filter	src/bf/bloom_filter.h	/^class bloom_filter$/;"	c	namespace:bf
+blue	unit_test.hpp	/^  blue,$/;"	e	enum:caf::test::logger::color_value
+bold	unit_test.hpp	/^  bold$/;"	e	enum:caf::test::logger::color_face
+bswap_32	city.cc	53;"	d	file:
+bswap_32	city.cc	60;"	d	file:
+bswap_32	city.cc	66;"	d	file:
+bswap_32	city.cc	72;"	d	file:
+bswap_32	city.cc	78;"	d	file:
+bswap_32	city.cc	86;"	d	file:
+bswap_64	city.cc	54;"	d	file:
+bswap_64	city.cc	61;"	d	file:
+bswap_64	city.cc	67;"	d	file:
+bswap_64	city.cc	73;"	d	file:
+bswap_64	city.cc	79;"	d	file:
+bswap_64	city.cc	87;"	d	file:
+buf_	unit_test.hpp	/^    std::ostringstream buf_;$/;"	m	class:caf::test::logger::level::stream
+byte_range	src/bf/h3.h	/^  constexpr static size_t byte_range =$/;"	m	class:bf::h3
+bytes_	src/bf/h3.h	/^  T bytes_[N][byte_range];$/;"	m	class:bf::h3
+c1	city.cc	/^static const uint32 c1 = 0xcc9e2d51;$/;"	v	file:
+c2	city.cc	/^static const uint32 c2 = 0x1b873593;$/;"	v	file:
+cache_packet	Cache.cc	/^uint64_t S_Cache::cache_packet(const string& _filename,$/;"	f	class:S_Cache
+cache_packet	Cache.h	/^    virtual uint64_t cache_packet(const string& _filename, const string& ID, const char* _payload){return 0;}$/;"	f	class:CacheModule
+cache_packet_bf_lookup	Cache.h	/^    uint64_t cache_packet_bf_lookup;$/;"	m	class:S_Cache
+cache_table_r	Cache.h	/^    Cachetable cache_table_r;$/;"	m	class:S_Cache
+cache_table_w	Cache.h	/^    Cachetable cache_table_w;$/;"	m	class:S_Cache
+caf	unit_test.hpp	/^namespace caf {$/;"	n
+caf	unit_test_impl.hpp	/^namespace caf {$/;"	n
+canceled_	unit_test_impl.hpp	/^  volatile bool canceled_ = false;$/;"	m	class:caf::test::watchdog
+capacity	Cache.h	/^    uint64_t capacity; \/\/ the number of  packets$/;"	m	class:CacheModule
+capacity	src/bf/bloom_filter/a2.cc	/^size_t a2_bloom_filter::capacity(double fp, size_t cells)$/;"	f	class:bf::a2_bloom_filter
+capacity_	src/bf/bloom_filter/a2.h	/^  size_t capacity_;  \/\/\/< Maximum number of items in the active Bloom filter.$/;"	m	class:bf::a2_bloom_filter
+capacity_fast_table	Cache.h	/^    uint64_t capacity_fast_table; \/\/ the number of entries in memory$/;"	m	class:CacheModule
+cells_	src/bf/bloom_filter/bitwise.h	/^  size_t cells_;$/;"	m	class:bf::bitwise_bloom_filter
+cells_	src/bf/bloom_filter/counting.h	/^  counter_vector cells_;$/;"	m	class:bf::counting_bloom_filter
+check	bf/util/configuration.h	/^  bool check(std::string const& opt) const$/;"	f	class:util::configuration
+check	unit_test.hpp	/^bool check(test* parent, const char *file, size_t line,$/;"	f	namespace:caf::test::logger::detail
+check	unit_test_impl.hpp	/^bool check(test* parent, const char *file, size_t line,$/;"	f	namespace:caf::test::detail
+check_file_	unit_test.hpp	/^  const char* check_file_ = "<none>";$/;"	m	class:caf::test::logger::engine
+check_line_	unit_test.hpp	/^  size_t check_line_ = 0;$/;"	m	class:caf::test::logger::engine
+checkout_file	Cache.cc	/^inline void Slot_Object::checkout_file(const string &key, uint32_t last_id){$/;"	f	class:Slot_Object
+checkout_readcache	Cache.cc	/^inline void S_Cache::checkout_readcache(const Pkts& pkts){$/;"	f	class:S_Cache
+checkout_writecache	Cache.cc	/^inline void S_Cache::checkout_writecache(){$/;"	f	class:S_Cache
+clear	src/bf/bloom_filter/a2.cc	/^void a2_bloom_filter::clear()$/;"	f	class:bf::a2_bloom_filter
+clear	src/bf/bloom_filter/basic.cc	/^void basic_bloom_filter::clear()$/;"	f	class:bf::basic_bloom_filter
+clear	src/bf/bloom_filter/bitwise.cc	/^void bitwise_bloom_filter::clear()$/;"	f	class:bf::bitwise_bloom_filter
+clear	src/bf/bloom_filter/counting.cc	/^void counting_bloom_filter::clear()$/;"	f	class:bf::counting_bloom_filter
+clear	src/bf/bloom_filter/counting.cc	/^void spectral_rm_bloom_filter::clear()$/;"	f	class:bf::spectral_rm_bloom_filter
+clear	src/bf/counter_vector.cc	/^void counter_vector::clear()$/;"	f	class:bf::counter_vector
+clear_file_requests	Cache.cc	/^void CacheModule::clear_file_requests(const string &_filename, const string& _ID){$/;"	f	class:CacheModule
+color	unit_test_impl.hpp	/^const char* engine::color(color_value v, color_face t) {$/;"	f	class:caf::test::engine
+color_face	unit_test.hpp	/^enum color_face {$/;"	g	class:caf::test::logger
+color_value	unit_test.hpp	/^enum color_value {$/;"	g	class:caf::test::logger
+colors_	unit_test.hpp	/^  const char* colors_[9][2] = {$/;"	m	class:caf::test::logger::engine
+config	bf/configuration.h	/^class config : public util::configuration<config>$/;"	c
+config_	bf/util/configuration.h	/^    configuration* config_;$/;"	m	class:util::configuration::block
+configuration	bf/util/configuration.h	/^class configuration$/;"	c	namespace:util
+conflicts_	bf/util/configuration.h	/^  std::multimap<std::string, std::string> conflicts_;$/;"	m	class:util::configuration
+console_	unit_test.hpp	/^  std::ostream& console_;$/;"	m	class:caf::test::logger::level
+console_mtx_	unit_test.hpp	/^  std::mutex console_mtx_;$/;"	m	class:caf::test::logger::level
+const_reference	src/bf/bitvector.h	/^  typedef bool const_reference;$/;"	t	class:bf::bitvector
+construct	bf/util/trial.h	/^  void construct(trial const& other)$/;"	f	class:util::trial
+construct	bf/util/trial.h	/^  void construct(trial&& other)$/;"	f	class:util::trial
+count	src/bf/bitvector.cc	/^size_type bitvector::count() const$/;"	f	class:bf::bitvector
+count	src/bf/bloom_filter/counting.cc	/^size_t counting_bloom_filter::count(size_t index) const$/;"	f	class:bf::counting_bloom_filter
+count	src/bf/counter_vector.cc	/^size_t counter_vector::count(size_t cell) const$/;"	f	class:bf::counter_vector
+count_table	src/bf/bitvector.cc	/^uint8_t count_table[] =$/;"	m	namespace:bf::__anon2	file:
+counter_vector	src/bf/counter_vector.cc	/^counter_vector::counter_vector(size_t cells, size_t width)$/;"	f	class:bf::counter_vector
+counter_vector	src/bf/counter_vector.h	/^class counter_vector$/;"	c	namespace:bf
+counting_bloom_filter	src/bf/bloom_filter/counting.cc	/^counting_bloom_filter::counting_bloom_filter(hasher h, size_t cells,$/;"	f	class:bf::counting_bloom_filter
+counting_bloom_filter	src/bf/bloom_filter/counting.h	/^class counting_bloom_filter : public bloom_filter$/;"	c	namespace:bf
+create_block	bf/util/configuration.h	/^  block& create_block(std::string name, std::string prefix = "")$/;"	f	class:util::configuration
+cur_index	Cache.h	/^    uint32_t cur_index = 0;$/;"	m	class:Slot_Object
+current_test	unit_test_impl.hpp	/^test* engine::current_test() {$/;"	f	class:caf::test::engine
+current_test_	unit_test.hpp	/^  test* current_test_ = nullptr;$/;"	m	class:caf::test::logger::engine
+cv_	unit_test_impl.hpp	/^  std::condition_variable cv_;$/;"	m	class:caf::test::watchdog
+cyan	unit_test.hpp	/^  cyan,$/;"	e	enum:caf::test::logger::color_value
+d_	src/bf/bloom_filter/stable.h	/^  size_t d_;$/;"	m	class:bf::stable_bloom_filter
+data	src/bf/object.h	/^  void const* data() const$/;"	f	class:bf::object
+data_	src/bf/object.h	/^  void const* data_ = nullptr;$/;"	m	class:bf::object
+data_table	Cache.h	/^    map <uint32_t, Slot_Object> data_table;$/;"	m	class:S_Cache
+data_table	Cache.h	/^    map<string , char* > data_table; $/;"	m	class:CacheModule
+data_test	Cache.h	/^    std::set<string> data_test;$/;"	m	class:S_Cache
+declval	unit_test.hpp	/^-> decltype(out << std::declval<const T&>()) {$/;"	f	namespace:caf::test::logger::detail
+decrement	src/bf/bloom_filter/counting.cc	/^bool counting_bloom_filter::decrement(std::vector<size_t> const& indices,$/;"	f	class:bf::counting_bloom_filter
+decrement	src/bf/counter_vector.cc	/^bool counter_vector::decrement(size_t cell, size_t value)$/;"	f	class:bf::counter_vector
+default_hash_function	src/bf/hash.cc	/^default_hash_function::default_hash_function(size_t seed)$/;"	f	class:bf::default_hash_function
+default_hash_function	src/bf/hash.h	/^class default_hash_function$/;"	c	namespace:bf
+default_hasher	src/bf/hash.cc	/^default_hasher::default_hasher(std::vector<hash_function> fns)$/;"	f	class:bf::default_hasher
+default_hasher	src/bf/hash.h	/^class default_hasher$/;"	c	namespace:bf
+defaulted_	bf/util/configuration.h	/^    bool defaulted_ = true;$/;"	m	class:util::configuration::option
+dependencies_	bf/util/configuration.h	/^  std::multimap<std::string, std::vector<std::string>> dependencies_;$/;"	m	class:util::configuration
+derived	bf/util/configuration.h	/^  Derived const* derived() const$/;"	f	class:util::configuration
+derived	bf/util/configuration.h	/^  Derived* derived()$/;"	f	class:util::configuration
+description_	bf/util/configuration.h	/^    std::string description_;$/;"	m	class:util::configuration::option
+destroy	bf/util/trial.h	/^  void destroy()$/;"	f	class:util::trial
+detail	unit_test.hpp	/^namespace detail {$/;"	n	class:caf::test::logger
+detail	unit_test.hpp	/^namespace detail {$/;"	n	namespace:caf::test
+detail	unit_test_impl.hpp	/^namespace detail {$/;"	n	namespace:caf::test
+digest	src/bf/hash.h	/^typedef size_t digest;$/;"	t	namespace:bf
+dispatch	bf/util/configuration.h	/^  trial<T> dispatch(option const& opt, std::false_type) const$/;"	f	class:util::configuration
+dispatch	bf/util/configuration.h	/^  trial<T> dispatch(option const& opt, std::true_type) const$/;"	f	class:util::configuration
+double_hasher	src/bf/hash.cc	/^double_hasher::double_hasher(size_t k, hash_function h1, hash_function h2)$/;"	f	class:bf::double_hasher
+double_hasher	src/bf/hash.h	/^class double_hasher$/;"	c	namespace:bf
+dramcache_outoforder	Cache.h	/^    uint64_t dramcache_outoforder;$/;"	m	class:CacheModule
+dramcache_pcks	Cache.h	/^    uint64_t dramcache_pcks;$/;"	m	class:CacheModule
+dramcache_rmlru	Cache.h	/^    uint64_t dramcache_rmlru;$/;"	m	class:CacheModule
+dummy_fixture	unit_test.hpp	/^struct dummy_fixture { };$/;"	s	namespace:caf::test
+empty	src/bf/bitvector.cc	/^bool bitvector::empty() const$/;"	f	class:bf::bitvector
+enable_opt	Cache.h	/^    bool enable_opt;$/;"	m	class:S_Cache
+engaged_	bf/util/trial.h	/^  bool engaged_;$/;"	m	class:util::trial
+engine	unit_test.hpp	/^class engine {$/;"	c	class:caf::test::logger
+equal_to	unit_test.hpp	/^bool equal_to(const T& t, const U& u) {$/;"	f	namespace:caf::test
+equal_to	unit_test.hpp	/^bool equal_to(const T& x, const U& y) {$/;"	f	namespace:caf::test
+error	bf/util/configuration.h	/^    error(std::string msg, char c)$/;"	f	struct:util::configuration::error
+error	bf/util/configuration.h	/^    error(std::string msg, std::string opt)$/;"	f	struct:util::configuration::error
+error	bf/util/configuration.h	/^  struct error : util::error$/;"	s	class:util::configuration
+error	bf/util/error.h	/^  explicit error(char const* msg)$/;"	f	class:util::error
+error	bf/util/error.h	/^  explicit error(std::string msg)$/;"	f	class:util::error
+error	bf/util/error.h	/^class error$/;"	c	namespace:util
+error	unit_test.hpp	/^    error   = 1,$/;"	m	class:caf::test::logger::level
+error	unit_test_impl.hpp	/^logger::stream logger::error() {$/;"	f	class:caf::test::logger
+error_	bf/util/trial.h	/^    error error_;$/;"	m	union:util::trial::__anon1
+expected_failures	unit_test_impl.hpp	/^size_t test::expected_failures() const {$/;"	f	class:caf::test::test
+expected_failures_	unit_test.hpp	/^  size_t expected_failures_;$/;"	m	class:caf::test::test
+extra_bits	src/bf/bitvector.cc	/^block_type bitvector::extra_bits() const$/;"	f	class:bf::bitvector
+fail	unit_test_impl.hpp	/^void test::fail(std::string msg, bool expected) {$/;"	f	class:caf::test::test
+failure	bf/util/trial.h	/^  error const& failure() const$/;"	f	class:util::trial
+false_positive_cnt	Cache.h	/^    uint64_t false_positive_cnt;$/;"	m	class:CacheModule
+false_positive_cnt_w	Cache.h	/^    uint64_t false_positive_cnt_w;$/;"	m	class:CacheModule
+fast_memory_hit	Cache.h	/^    uint64_t fast_memory_hit;$/;"	m	class:CacheModule
+file_	unit_test.hpp	/^  std::ofstream file_;$/;"	m	class:caf::test::logger::level
+file_map_p	Cache.h	/^    map<string, uint32_t> *file_map_p;$/;"	m	class:S_Cache
+file_mtx_	unit_test.hpp	/^  std::mutex file_mtx_;$/;"	m	class:caf::test::logger::level
+file_num	Cache.h	/^    uint8_t file_num = FILE_NUM;$/;"	m	class:Slot_Object
+filename	Cache.h	/^    string filename;$/;"	m	class:LRU_Object
+files	Cache.h	/^    Files files;$/;"	m	class:Slot_Object
+fill	unit_test_impl.hpp	/^const char* fill(size_t line) {$/;"	f	namespace:caf::test::detail
+find	Cache.cc	/^pair<bool, Pkts> Slot_Object::find(const string& key){$/;"	f	class:Slot_Object
+find_first	src/bf/bitvector.cc	/^size_type bitvector::find_first() const$/;"	f	class:bf::bitvector
+find_from	src/bf/bitvector.cc	/^size_type bitvector::find_from(size_type i) const$/;"	f	class:bf::bitvector
+find_indices	src/bf/bloom_filter/counting.cc	/^counting_bloom_filter::find_indices(object const& o) const$/;"	f	class:bf::counting_bloom_filter
+find_minima	src/bf/bloom_filter/counting.cc	/^counting_bloom_filter::find_minima(std::vector<size_t> const& indices) const$/;"	f	class:bf::counting_bloom_filter
+find_minimum	src/bf/bloom_filter/counting.cc	/^counting_bloom_filter::find_minimum(std::vector<size_t> const& indices) const$/;"	f	class:bf::counting_bloom_filter
+find_next	src/bf/bitvector.cc	/^size_type bitvector::find_next(size_type i) const$/;"	f	class:bf::bitvector
+find_option	bf/util/configuration.h	/^  option const* find_option(std::string const& opt) const$/;"	f	class:util::configuration
+find_option	bf/util/configuration.h	/^  option* find_option(std::string const& opt)$/;"	f	class:util::configuration
+first_	src/bf/bloom_filter/a2.h	/^  basic_bloom_filter first_;$/;"	m	class:bf::a2_bloom_filter
+first_	src/bf/bloom_filter/counting.h	/^  counting_bloom_filter first_;$/;"	m	class:bf::spectral_rm_bloom_filter
+flip	src/bf/bitvector.cc	/^bitvector& bitvector::flip()$/;"	f	class:bf::bitvector
+flip	src/bf/bitvector.cc	/^bitvector& bitvector::flip(size_type i)$/;"	f	class:bf::bitvector
+flip	src/bf/bitvector.cc	/^bitvector::reference& bitvector::reference::flip()$/;"	f	class:bf::bitvector::reference
+flush	unit_test_impl.hpp	/^void logger::stream::flush() {$/;"	f	class:caf::test::logger::stream
+fmix	city.cc	/^static uint32 fmix(uint32 h)$/;"	f	file:
+fns_	src/bf/hash.h	/^  std::vector<hash_function> fns_;$/;"	m	class:bf::default_hasher
+generator_	src/bf/bloom_filter/stable.h	/^  std::mt19937 generator_;$/;"	m	class:bf::stable_bloom_filter
+get	bf/util/configuration.h	/^  trial<std::string> get(std::string const& opt) const$/;"	f	class:util::configuration
+getSendPacket	test.cc	/^pair<string, string> getSendPacket(map<string, uint32_t> &workload) {$/;"	f
+get_avg_readtime	Cache.cc	/^int32_t S_Cache::get_avg_readtime(const string& key, const uint32_t ID){$/;"	f	class:S_Cache
+get_avg_writetime	Cache.cc	/^int32_t S_Cache::get_avg_writetime(const uint32_t ID, const uint32_t total_length){$/;"	f	class:S_Cache
+get_cached_packet	Cache.cc	/^pair<int64_t, int64_t> S_Cache::get_cached_packet($/;"	f	class:S_Cache
+get_cached_packet	Cache.h	/^    virtual pair<int64_t, int64_t> get_cached_packet(const string& _filename, const string& ID){return std::make_pair(0, 0);}$/;"	f	class:CacheModule
+get_dram_packet	Cache.cc	/^int32_t S_Cache::get_dram_packet(const string& key, const uint32_t ID){$/;"	f	class:S_Cache
+get_file_hits	Cache.cc	/^string CacheModule::get_file_hits(){$/;"	f	class:CacheModule
+get_file_requests	Cache.cc	/^uint32_t CacheModule::get_file_requests(const string &_filename, const string& _ID){$/;"	f	class:CacheModule
+get_packet_stats	Cache.h	/^    virtual string get_packet_stats(){return 0;}$/;"	f	class:CacheModule
+get_readcached_packet	Cache.cc	/^int32_t S_Cache::get_readcached_packet(const string& key, const uint32_t ID){$/;"	f	class:S_Cache
+get_readcached_packet2	Cache.cc	/^int32_t S_Cache::get_readcached_packet2(const string& key, uint32_t ID){$/;"	f	class:S_Cache
+get_state	Cache.h	/^    virtual string get_state(){return 0;}$/;"	f	class:CacheModule
+get_stored_packets_r	Cache.cc	/^int32_t S_Cache::get_stored_packets_r(const string& _filename){$/;"	f	class:S_Cache
+get_stored_packets_w	Cache.cc	/^int32_t S_Cache::get_stored_packets_w(const string& _filename){$/;"	f	class:S_Cache
+get_writecached_packet	Cache.cc	/^int32_t S_Cache::get_writecached_packet(const string& key, const uint32_t ID){$/;"	f	class:S_Cache
+good	unit_test.hpp	/^  inline size_t good() {$/;"	f	class:caf::test::test
+good_	unit_test.hpp	/^  size_t good_;$/;"	m	class:caf::test::test
+green	unit_test.hpp	/^  green,$/;"	e	enum:caf::test::logger::color_value
+grow	src/bf/bloom_filter/bitwise.cc	/^void bitwise_bloom_filter::grow()$/;"	f	class:bf::bitwise_bloom_filter
+h1_	src/bf/hash.h	/^  hash_function h1_;$/;"	m	class:bf::double_hasher
+h2_	src/bf/hash.h	/^  hash_function h2_;$/;"	m	class:bf::double_hasher
+h3	src/bf/h3.h	/^  h3(T seed = 0)$/;"	f	class:bf::h3
+h3	src/bf/h3.h	/^class h3$/;"	c	namespace:bf
+h3_	src/bf/hash.h	/^  h3<size_t, max_obj_size> h3_;$/;"	m	class:bf::default_hash_function
+hash_function	src/bf/hash.h	/^typedef std::function<digest(object const&)> hash_function;$/;"	t	namespace:bf
+hasher	src/bf/hash.h	/^typedef std::function<std::vector<digest>(object const&)> hasher;$/;"	t	namespace:bf
+hasher_	src/bf/bloom_filter/basic.h	/^  hasher hasher_;$/;"	m	class:bf::basic_bloom_filter
+hasher_	src/bf/bloom_filter/counting.h	/^  hasher hasher_;$/;"	m	class:bf::counting_bloom_filter
+head	Cache.h	/^    LRU_Object* head, *tail;$/;"	m	class:LRU_Table
+hits	Cache.h	/^    uint64_t hits;$/;"	m	class:CacheModule
+increase_file_requests	Cache.cc	/^void CacheModule::increase_file_requests(const string &_filename, const string& _ID){$/;"	f	class:CacheModule
+increment	src/bf/bloom_filter/counting.cc	/^bool counting_bloom_filter::increment(std::vector<size_t> const& indices,$/;"	f	class:bf::counting_bloom_filter
+increment	src/bf/counter_vector.cc	/^bool counter_vector::increment(size_t cell, size_t value)$/;"	f	class:bf::counter_vector
+index_bf_ptr	Cache.h	/^    bf::a2_bloom_filter  *index_bf_ptr;$/;"	m	class:S_Cache
+info	unit_test.hpp	/^    info    = 2,$/;"	m	class:caf::test::logger::level
+info	unit_test_impl.hpp	/^logger::stream logger::info() {$/;"	f	class:caf::test::logger
+info_arch	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_version	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+init	bf/util/configuration.h	/^    option& init(T const& head, Args... tail)$/;"	f	class:util::configuration::option
+init	bf/util/configuration.h	/^    option& init(T const& x)$/;"	f	class:util::configuration::option
+init	unit_test_impl.hpp	/^bool logger::init(int lvl_cons, int lvl_file, const std::string& logfile) {$/;"	f	class:caf::test::logger
+init_bf	Cache.cc	/^bf::a2_bloom_filter *S_Cache::init_bf(double fp){$/;"	f	class:S_Cache
+init_bf	test.cc	/^bf::a2_bloom_filter *init_bf(double fp, size_t capacity){$/;"	f
+initialize	bf/configuration.cc	/^void config::initialize()$/;"	f	class:config
+insert_packet	Cache.cc	/^pair<bool, int> Slot_Object::insert_packet(const string& key, uint32_t _ID, char *payload){$/;"	f	class:Slot_Object
+insert_packets	Cache.cc	/^pair<bool, int> Slot_Object::insert_packets(const string& key, $/;"	f	class:Slot_Object
+instance	unit_test_impl.hpp	/^engine& engine::instance() {$/;"	f	class:caf::test::engine
+instance	unit_test_impl.hpp	/^logger& logger::instance() {$/;"	f	class:caf::test::logger
+is_last	Cache.cc	/^pair<bool,uint32_t> S_Cache::is_last(const string &key, const uint32_t ID){$/;"	f	class:S_Cache
+is_reallycached	Cache.cc	/^bool S_Cache::is_reallycached(const string &key){$/;"	f	class:S_Cache
+items_	src/bf/bloom_filter/a2.h	/^  size_t items_ = 0; \/\/\/< Number of items in the active Bloom filter.$/;"	m	class:bf::a2_bloom_filter
+k	src/bf/bloom_filter/a2.cc	/^size_t a2_bloom_filter::k(double fp)$/;"	f	class:bf::a2_bloom_filter
+k	src/bf/bloom_filter/basic.cc	/^size_t basic_bloom_filter::k(size_t cells, size_t capacity)$/;"	f	class:bf::basic_bloom_filter
+k0	city.cc	/^static const uint64 k0 = 0xc3a5c85c97cb3127ULL;$/;"	v	file:
+k1	city.cc	/^static const uint64 k1 = 0xb492b66fbe98f273ULL;$/;"	v	file:
+k2	city.cc	/^static const uint64 k2 = 0x9ae16a3b2f90404fULL;$/;"	v	file:
+k_	src/bf/bloom_filter/bitwise.h	/^  size_t k_;$/;"	m	class:bf::bitwise_bloom_filter
+k_	src/bf/hash.h	/^  size_t k_;$/;"	m	class:bf::double_hasher
+last_check_file	unit_test_impl.hpp	/^const char* engine::last_check_file() {$/;"	f	class:caf::test::engine
+last_check_file	unit_test_impl.hpp	/^void engine::last_check_file(const char* file) {$/;"	f	class:caf::test::engine
+last_check_line	unit_test_impl.hpp	/^size_t engine::last_check_line() {$/;"	f	class:caf::test::engine
+last_check_line	unit_test_impl.hpp	/^void engine::last_check_line(size_t line) {$/;"	f	class:caf::test::engine
+level	unit_test.hpp	/^  enum class level : int {$/;"	c	class:caf::test::logger
+level_	unit_test.hpp	/^    level level_;$/;"	m	class:caf::test::logger::level::stream
+level_console_	unit_test.hpp	/^  level level_console_;$/;"	m	class:caf::test::logger::level
+level_file_	unit_test.hpp	/^  level level_file_;$/;"	m	class:caf::test::logger::level
+levels_	src/bf/bloom_filter/bitwise.h	/^  std::vector<basic_bloom_filter> levels_;$/;"	m	class:bf::bitwise_bloom_filter
+log	unit_test.hpp	/^  void log(level lvl, const T& x) {$/;"	f	class:caf::test::logger::level
+log_file_hit	Cache.cc	/^void S_Cache::log_file_hit(const string& _filename, const string& _ID){$/;"	f	class:S_Cache
+log_file_hits	Cache.h	/^    map<string, uint32_t>log_file_hits; \/\/ this gets erazed when its written$/;"	m	class:CacheModule
+log_file_requests	Cache.h	/^    map<string, uint32_t> log_file_requests;$/;"	m	class:CacheModule
+logger	unit_test.hpp	/^class logger {$/;"	c	namespace:caf::test
+logger	unit_test_impl.hpp	/^logger::logger()$/;"	f	class:caf::test::logger
+logger_	unit_test.hpp	/^    logger& logger_;$/;"	m	class:caf::test::logger::level::stream
+lookup	src/bf/bloom_filter.h	/^  size_t lookup(T const& x) const$/;"	f	class:bf::bloom_filter
+lookup	src/bf/bloom_filter/a2.cc	/^size_t a2_bloom_filter::lookup(object const& o) const$/;"	f	class:bf::a2_bloom_filter
+lookup	src/bf/bloom_filter/basic.cc	/^size_t basic_bloom_filter::lookup(object const& o) const$/;"	f	class:bf::basic_bloom_filter
+lookup	src/bf/bloom_filter/bitwise.cc	/^size_t bitwise_bloom_filter::lookup(object const& o) const$/;"	f	class:bf::bitwise_bloom_filter
+lookup	src/bf/bloom_filter/counting.cc	/^size_t counting_bloom_filter::lookup(object const& o) const$/;"	f	class:bf::counting_bloom_filter
+lookup	src/bf/bloom_filter/counting.cc	/^size_t spectral_rm_bloom_filter::lookup(object const& o) const$/;"	f	class:bf::spectral_rm_bloom_filter
+lowest_bit	src/bf/bitvector.cc	/^size_type bitvector::lowest_bit(block_type block)$/;"	f	class:bf::bitvector
+m	src/bf/bloom_filter/basic.cc	/^size_t basic_bloom_filter::m(double fp, size_t capacity)$/;"	f	class:bf::basic_bloom_filter
+magenta	unit_test.hpp	/^  magenta,$/;"	e	enum:caf::test::logger::color_value
+main	bf/bf.cc	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/2.8.12.2/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/2.8.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	src/test.cc	/^int main()$/;"	f
+main	test.cc	/^int main()$/;"	f
+main	test2.cc	/^int main(){$/;"	f
+main	unit_test_impl.hpp	/^int main(int argc, char** argv) {$/;"	f
+main	unit_test_impl.hpp	/^int main(int argc, char** argv) {$/;"	f	namespace:caf::test
+make_hasher	src/bf/hash.cc	/^hasher make_hasher(size_t k, size_t seed, bool double_hashing)$/;"	f	namespace:bf
+mask_	src/bf/bitvector.h	/^    block_type const mask_;$/;"	m	class:bf::bitvector::reference
+massive	unit_test.hpp	/^    massive = 4$/;"	m	class:caf::test::logger::level
+massive	unit_test_impl.hpp	/^logger::stream logger::massive() {$/;"	f	class:caf::test::logger
+max	src/bf/counter_vector.cc	/^size_t counter_vector::max() const$/;"	f	class:bf::counter_vector
+max_obj_size	src/bf/hash.h	/^  constexpr static size_t max_obj_size = 36;$/;"	m	class:bf::default_hash_function
+max_runtime	unit_test_impl.hpp	/^int engine::max_runtime() {$/;"	f	class:caf::test::engine
+max_runtime	unit_test_impl.hpp	/^void engine::max_runtime(int value) {$/;"	f	class:caf::test::engine
+max_runtime_	unit_test.hpp	/^  int max_runtime_ = 30; \/\/ 30s per default$/;"	m	class:caf::test::logger::engine
+max_vals_	bf/util/configuration.h	/^    size_t max_vals_ = 0;$/;"	m	class:util::configuration::option
+mem_table	Cache.h	/^    map<string , uint32_t> mem_table;$/;"	m	class:S_Cache
+miss	Cache.h	/^    uint64_t miss;$/;"	m	class:CacheModule
+msg	bf/util/error.h	/^  std::string const& msg() const$/;"	f	class:util::error::std
+msg_	bf/util/error.h	/^  std::string msg_;$/;"	m	class:util::error
+mtx_	unit_test_impl.hpp	/^  std::mutex mtx_;$/;"	m	class:caf::test::watchdog
+multi	bf/util/configuration.h	/^    option& multi(size_t n = -1)$/;"	f	class:util::configuration::option
+name	unit_test_impl.hpp	/^const std::string& test::name() const {$/;"	f	class:caf::test::test
+name2index	Cache.h	/^    Name2index name2index;$/;"	m	class:Slot_Object
+name_	bf/util/configuration.h	/^    std::string name_;$/;"	m	class:util::configuration::block
+name_	bf/util/configuration.h	/^    std::string name_;$/;"	m	class:util::configuration::option
+name_	unit_test.hpp	/^  std::string name_;$/;"	m	class:caf::test::test
+next	Cache.h	/^    LRU_Object * next;$/;"	m	class:LRU_Object
+nil	bf/util/trial.h	/^static constexpr auto nil = nothing{};$/;"	m	namespace:util
+noexcept	src/bf/bitvector.h	/^  void clear() noexcept;$/;"	m	class:bf::bitvector
+noexcept	unit_test.hpp	/^  ~require_error() noexcept;$/;"	m	class:caf::test::detail::require_error
+normal	unit_test.hpp	/^  normal,$/;"	e	enum:caf::test::logger::color_face
+not_equal_to	unit_test.hpp	/^bool not_equal_to(const T& t, const U& u) {$/;"	f	namespace:caf::test
+nothing	bf/util/trial.h	/^struct nothing { };$/;"	s	namespace:util
+npos	src/bf/bitvector.h	/^  static size_type constexpr npos = static_cast<size_type>(-1);$/;"	m	class:bf::bitvector
+num_bits_	src/bf/bitvector.h	/^  size_type num_bits_;$/;"	m	class:bf::bitvector
+object	src/bf/object.h	/^  object(void const* data, size_t size)$/;"	f	class:bf::object
+object	src/bf/object.h	/^class object$/;"	c	namespace:bf
+objects	Cache.h	/^    map<string, LRU_Object*> objects; $/;"	m	class:LRU_Table
+operator !=	src/bf/bitvector.cc	/^bool operator!=(bitvector const& x, bitvector const& y)$/;"	f	namespace:bf
+operator &	src/bf/bitvector.cc	/^bitvector operator&(bitvector const& x, bitvector const& y)$/;"	f	namespace:bf
+operator &=	src/bf/bitvector.cc	/^bitvector& bitvector::operator&=(bitvector const& other)$/;"	f	class:bf::bitvector
+operator &=	src/bf/bitvector.cc	/^bitvector::reference& bitvector::reference::operator&=(bool x)$/;"	f	class:bf::bitvector::reference
+operator ()	src/bf/h3.h	/^  T operator()(void const* data, size_t size, size_t offset = 0) const$/;"	f	class:bf::h3
+operator ()	src/bf/hash.cc	/^size_t default_hash_function::operator()(object const& o) const$/;"	f	class:bf::default_hash_function
+operator ()	src/bf/hash.cc	/^std::vector<digest> default_hasher::operator()(object const& o) const$/;"	f	class:bf::default_hasher
+operator ()	src/bf/hash.cc	/^std::vector<digest> double_hasher::operator()(object const& o) const$/;"	f	class:bf::double_hasher
+operator *	bf/util/trial.h	/^  T const& operator*() const$/;"	f	class:util::trial
+operator *	bf/util/trial.h	/^  T& operator*()$/;"	f	class:util::trial
+operator -	src/bf/bitvector.cc	/^bitvector operator-(bitvector const& x, bitvector const& y)$/;"	f	namespace:bf
+operator -=	src/bf/bitvector.cc	/^bitvector& bitvector::operator-=(bitvector const& other)$/;"	f	class:bf::bitvector
+operator -=	src/bf/bitvector.cc	/^bitvector::reference& bitvector::reference::operator-=(bool x)$/;"	f	class:bf::bitvector::reference
+operator ->	bf/util/trial.h	/^  T const* operator->() const$/;"	f	class:util::trial
+operator ->	bf/util/trial.h	/^  T* operator->()$/;"	f	class:util::trial
+operator <	src/bf/bitvector.cc	/^bool operator<(bitvector const& x, bitvector const& y)$/;"	f	namespace:bf
+operator <<	src/bf/bitvector.cc	/^bitvector bitvector::operator<<(size_type n) const$/;"	f	class:bf::bitvector
+operator <<	unit_test.hpp	/^    operator<<(const T& x) {$/;"	f	class:caf::test::logger::level::stream
+operator <<	unit_test.hpp	/^std::ostream& operator<<(std::ostream& out, const showable_base<T>& x) {$/;"	f	namespace:caf::test::logger::detail
+operator <<	unit_test_impl.hpp	/^logger::stream& logger::stream::operator<<(const char& c) {$/;"	f	class:caf::test::logger::stream
+operator <<	unit_test_impl.hpp	/^logger::stream& logger::stream::operator<<(const char* cstr) {$/;"	f	class:caf::test::logger::stream
+operator <<	unit_test_impl.hpp	/^logger::stream& logger::stream::operator<<(const std::string& str) {$/;"	f	class:caf::test::logger::stream
+operator <<=	src/bf/bitvector.cc	/^bitvector& bitvector::operator<<=(size_type n)$/;"	f	class:bf::bitvector
+operator =	bf/util/trial.h	/^  trial& operator=(T x)$/;"	f	class:util::trial
+operator =	bf/util/trial.h	/^  trial& operator=(error e)$/;"	f	class:util::trial
+operator =	bf/util/trial.h	/^  trial& operator=(trial other)$/;"	f	class:util::trial
+operator =	src/bf/bitvector.cc	/^bitvector& bitvector::operator=(bitvector other)$/;"	f	class:bf::bitvector
+operator =	src/bf/bitvector.cc	/^bitvector::reference& bitvector::reference::operator=(bool x)$/;"	f	class:bf::bitvector::reference
+operator =	src/bf/bitvector.cc	/^bitvector::reference& bitvector::reference::operator=(reference const& other)$/;"	f	class:bf::bitvector::reference
+operator ==	src/bf/bitvector.cc	/^bool operator==(bitvector const& x, bitvector const& y)$/;"	f	namespace:bf
+operator >>	src/bf/bitvector.cc	/^bitvector bitvector::operator>>(size_type n) const$/;"	f	class:bf::bitvector
+operator >>=	src/bf/bitvector.cc	/^bitvector& bitvector::operator>>=(size_type n)$/;"	f	class:bf::bitvector
+operator []	src/bf/bitvector.cc	/^bitvector::reference bitvector::operator[](size_type i)$/;"	f	class:bf::bitvector
+operator []	src/bf/bitvector.cc	/^bool bitvector::operator[](size_type i) const$/;"	f	class:bf::bitvector
+operator ^	src/bf/bitvector.cc	/^bitvector operator^(bitvector const& x, bitvector const& y)$/;"	f	namespace:bf
+operator ^=	src/bf/bitvector.cc	/^bitvector& bitvector::operator^=(bitvector const& other)$/;"	f	class:bf::bitvector
+operator ^=	src/bf/bitvector.cc	/^bitvector::reference& bitvector::reference::operator^=(bool x)$/;"	f	class:bf::bitvector::reference
+operator bool	bf/util/trial.h	/^  explicit operator bool() const$/;"	f	class:util::trial
+operator bool	src/bf/bitvector.cc	/^bitvector::reference::operator bool() const$/;"	f	class:bf::bitvector::reference
+operator std::string	bf/util/error.h	/^  explicit operator std::string() const$/;"	f	class:util::error
+operator |	src/bf/bitvector.cc	/^bitvector operator|(bitvector const& x, bitvector const& y)$/;"	f	namespace:bf
+operator |	src/bf/counter_vector.cc	/^counter_vector operator|(counter_vector const& x, counter_vector const& y)$/;"	f	namespace:bf
+operator |=	src/bf/bitvector.cc	/^bitvector& bitvector::operator|=(bitvector const& other)$/;"	f	class:bf::bitvector
+operator |=	src/bf/bitvector.cc	/^bitvector::reference& bitvector::reference::operator|=(bool x)$/;"	f	class:bf::bitvector::reference
+operator |=	src/bf/counter_vector.cc	/^counter_vector& counter_vector::operator|=(counter_vector const& other)$/;"	f	class:bf::counter_vector
+operator ~	src/bf/bitvector.cc	/^bitvector bitvector::operator~() const$/;"	f	class:bf::bitvector
+operator ~	src/bf/bitvector.cc	/^bool bitvector::reference::operator~() const$/;"	f	class:bf::bitvector::reference
+option	bf/util/configuration.h	/^    option(std::string name, std::string desc, char shortcut = '\\0')$/;"	f	class:util::configuration::option
+option	bf/util/configuration.h	/^  class option$/;"	c	class:util::configuration
+optionize	bf/util/configuration.h	/^  trial<std::string> optionize(std::string& str) const$/;"	f	class:util::configuration
+options_	bf/util/configuration.h	/^    std::vector<option> options_;$/;"	m	class:util::configuration::block
+other	bf/util/configuration.h	/^    block& operator=(block other) = delete;$/;"	m	class:util::configuration::block
+override	src/bf/bloom_filter/a2.h	/^  virtual size_t lookup(object const& o) const override;$/;"	m	class:bf::a2_bloom_filter
+override	src/bf/bloom_filter/a2.h	/^  virtual void add(object const& o) override;$/;"	m	class:bf::a2_bloom_filter
+override	src/bf/bloom_filter/a2.h	/^  virtual void clear() override;$/;"	m	class:bf::a2_bloom_filter
+override	src/bf/bloom_filter/basic.h	/^  virtual size_t lookup(object const& o) const override;$/;"	m	class:bf::basic_bloom_filter
+override	src/bf/bloom_filter/basic.h	/^  virtual void add(object const& o) override;$/;"	m	class:bf::basic_bloom_filter
+override	src/bf/bloom_filter/basic.h	/^  virtual void clear() override;$/;"	m	class:bf::basic_bloom_filter
+override	src/bf/bloom_filter/bitwise.h	/^  virtual size_t lookup(object const& o) const override;$/;"	m	class:bf::bitwise_bloom_filter
+override	src/bf/bloom_filter/bitwise.h	/^  virtual void add(object const& o) override;$/;"	m	class:bf::bitwise_bloom_filter
+override	src/bf/bloom_filter/bitwise.h	/^  virtual void clear() override;$/;"	m	class:bf::bitwise_bloom_filter
+override	src/bf/bloom_filter/counting.h	/^  virtual size_t lookup(object const& o) const override;$/;"	m	class:bf::counting_bloom_filter
+override	src/bf/bloom_filter/counting.h	/^  virtual size_t lookup(object const& o) const override;$/;"	m	class:bf::spectral_rm_bloom_filter
+override	src/bf/bloom_filter/counting.h	/^  virtual void add(object const& o) override;$/;"	m	class:bf::counting_bloom_filter
+override	src/bf/bloom_filter/counting.h	/^  virtual void add(object const& o) override;$/;"	m	class:bf::spectral_mi_bloom_filter
+override	src/bf/bloom_filter/counting.h	/^  virtual void add(object const& o) override;$/;"	m	class:bf::spectral_rm_bloom_filter
+override	src/bf/bloom_filter/counting.h	/^  virtual void clear() override;$/;"	m	class:bf::counting_bloom_filter
+override	src/bf/bloom_filter/counting.h	/^  virtual void clear() override;$/;"	m	class:bf::spectral_rm_bloom_filter
+override	src/bf/bloom_filter/stable.h	/^  virtual void add(object const& o) override;$/;"	m	class:bf::stable_bloom_filter
+parse	bf/util/configuration.h	/^  static trial<Derived> parse(int argc, char *argv[])$/;"	f	class:util::configuration
+parse	bf/util/configuration.h	/^  static trial<Derived> parse(std::string const& \/* filename *\/)$/;"	f	class:util::configuration
+parseFileMap	test.cc	/^void parseFileMap(map <string, uint32_t> &workload){$/;"	f
+partition_	src/bf/bloom_filter/basic.h	/^  bool partition_;$/;"	m	class:bf::basic_bloom_filter
+partition_	src/bf/bloom_filter/counting.h	/^  bool partition_;$/;"	m	class:bf::counting_bloom_filter
+pass	unit_test_impl.hpp	/^void test::pass(std::string msg) {$/;"	f	class:caf::test::test
+path	unit_test_impl.hpp	/^char* engine::path() {$/;"	f	class:caf::test::engine
+path	unit_test_impl.hpp	/^void engine::path(char* argv) {$/;"	f	class:caf::test::engine
+path_	unit_test.hpp	/^  char*  path_ = nullptr;$/;"	m	class:caf::test::logger::engine
+pkt_num	Cache.h	/^    uint8_t pkt_num = PKT_NUM;$/;"	m	class:Slot_Object
+prefix_	bf/util/configuration.h	/^    std::string prefix_;$/;"	m	class:util::configuration::block
+prev	Cache.h	/^    LRU_Object * prev;$/;"	m	class:LRU_Object
+push_back	src/bf/bitvector.cc	/^void bitvector::push_back(bool bit)$/;"	f	class:bf::bitvector
+qualify	bf/util/configuration.h	/^    std::string qualify(std::string const& name) const$/;"	f	class:util::configuration::block
+quiet	unit_test.hpp	/^    quiet   = 0,$/;"	m	class:caf::test::logger::level
+read_dram_cnt	Cache.h	/^    uint64_t read_dram_cnt;$/;"	m	class:CacheModule
+readcache_pcks	Cache.h	/^    uint64_t readcache_pcks;$/;"	m	class:S_Cache
+readcache_rmlru	Cache.h	/^    uint64_t readcache_rmlru;$/;"	m	class:CacheModule
+reads_for_evictions	Cache.h	/^    uint64_t reads_for_evictions;$/;"	m	class:CacheModule
+reads_for_fetchings	Cache.h	/^    uint64_t reads_for_fetchings;$/;"	m	class:CacheModule
+reads_for_insertions	Cache.h	/^    uint64_t reads_for_insertions;$/;"	m	class:CacheModule
+red	unit_test.hpp	/^  red,$/;"	e	enum:caf::test::logger::color_value
+reference	src/bf/bitvector.cc	/^bitvector::reference::reference(block_type& block, block_type i)$/;"	f	class:bf::bitvector::reference
+reference	src/bf/bitvector.h	/^  class reference$/;"	c	class:bf::bitvector
+remove	src/bf/bloom_filter/basic.cc	/^void basic_bloom_filter::remove(object const& o)$/;"	f	class:bf::basic_bloom_filter
+remove	src/bf/bloom_filter/counting.cc	/^void counting_bloom_filter::remove(object const& o)$/;"	f	class:bf::counting_bloom_filter
+remove	src/bf/bloom_filter/counting.cc	/^void spectral_rm_bloom_filter::remove(object const& o)$/;"	f	class:bf::spectral_rm_bloom_filter
+remove	src/bf/bloom_filter/counting.h	/^  void remove(T const& x)$/;"	f	class:bf::counting_bloom_filter
+remove_last_file_r	Cache.cc	/^int32_t S_Cache::remove_last_file_r(){$/;"	f	class:S_Cache
+remove_last_file_w	Cache.cc	/^int32_t S_Cache::remove_last_file_w(){$/;"	f	class:S_Cache
+remove_last_packet	Cache.h	/^    virtual uint32_t remove_last_packet(const string& _filename){return 0;}$/;"	f	class:CacheModule
+remove_object	Cache.cc	/^void LRU_Table::remove_object(const LRU_Object* obj){$/;"	f	class:LRU_Table
+remove_trailing_spaces	unit_test_impl.hpp	/^void remove_trailing_spaces(std::string& x) {$/;"	f	namespace:caf::test::detail
+render	unit_test_impl.hpp	/^std::string engine::render(std::chrono::microseconds t) {$/;"	f	class:caf::test::engine
+requests	Cache.h	/^    uint64_t requests;$/;"	m	class:CacheModule
+require_error	unit_test.hpp	/^class require_error : std::logic_error {$/;"	c	namespace:caf::test::detail
+require_error	unit_test_impl.hpp	/^require_error::require_error(const std::string& msg) : std::logic_error(msg) {$/;"	f	class:caf::test::detail::require_error
+reset	src/bf/bitvector.cc	/^bitvector& bitvector::reset()$/;"	f	class:bf::bitvector
+reset	src/bf/bitvector.cc	/^bitvector& bitvector::reset(size_type i)$/;"	f	class:bf::bitvector
+reset	unit_test.hpp	/^  reset,$/;"	e	enum:caf::test::logger::color_value
+resize	src/bf/bitvector.cc	/^void bitvector::resize(size_type n, bool value)$/;"	f	class:bf::bitvector
+responses	Cache.h	/^    uint64_t responses;   $/;"	m	class:CacheModule
+run	bf/bf.cc	/^trial<nothing> run(config const& cfg)$/;"	f
+run	unit_test_impl.hpp	/^bool engine::run(bool colorize,$/;"	f	class:caf::test::engine
+s_watchdog	unit_test_impl.hpp	/^namespace { watchdog* s_watchdog; }$/;"	m	namespace:caf::test::__anon3
+second_	src/bf/bloom_filter/a2.h	/^  basic_bloom_filter second_;$/;"	m	class:bf::a2_bloom_filter
+second_	src/bf/bloom_filter/counting.h	/^  counting_bloom_filter second_;$/;"	m	class:bf::spectral_rm_bloom_filter
+seed_	src/bf/bloom_filter/bitwise.h	/^  size_t seed_;$/;"	m	class:bf::bitwise_bloom_filter
+separator	bf/util/configuration.h	/^    static constexpr char const* separator = ".";$/;"	m	class:util::configuration::block
+set	src/bf/bitvector.cc	/^bitvector& bitvector::set()$/;"	f	class:bf::bitvector
+set	src/bf/bitvector.cc	/^bitvector& bitvector::set(size_type i, bool bit)$/;"	f	class:bf::bitvector
+set	src/bf/counter_vector.cc	/^void counter_vector::set(size_t cell, size_t value)$/;"	f	class:bf::counter_vector
+shortcut_	bf/util/configuration.h	/^    char shortcut_ = '\\0';$/;"	m	class:util::configuration::option
+shortcuts_	bf/util/configuration.h	/^  std::map<std::string, std::string> shortcuts_;$/;"	m	class:util::configuration
+show	unit_test.hpp	/^showable<T> show(const T &x) {$/;"	f	namespace:caf::test::logger::detail
+showable	unit_test.hpp	/^  explicit showable(const T& x) : showable_base<T>(x) {$/;"	f	class:caf::test::logger::detail::showable
+showable	unit_test.hpp	/^class showable : public showable_base<T> {$/;"	c	namespace:caf::test::logger::detail
+showable_base	unit_test.hpp	/^  explicit showable_base(const T& x) : value(x) {$/;"	f	struct:caf::test::logger::detail::showable_base
+showable_base	unit_test.hpp	/^struct showable_base {$/;"	s	namespace:caf::test::logger::detail
+single	bf/util/configuration.h	/^    option& single()$/;"	f	class:util::configuration::option
+size	src/bf/bitvector.cc	/^size_type bitvector::size() const$/;"	f	class:bf::bitvector
+size	src/bf/counter_vector.cc	/^size_t counter_vector::size() const$/;"	f	class:bf::counter_vector
+size	src/bf/object.h	/^  size_t size() const$/;"	f	class:bf::object
+size_	src/bf/object.h	/^  size_t size_ = 0;$/;"	m	class:bf::object
+size_type	src/bf/bitvector.cc	/^typedef bitvector::size_type size_type;$/;"	t	namespace:bf	file:
+size_type	src/bf/bitvector.h	/^  typedef size_t size_type;$/;"	t	class:bf::bitvector
+slot_num	Cache.h	/^    uint64_t slot_num;$/;"	m	class:S_Cache
+slow_memory_hit	Cache.h	/^    uint64_t slow_memory_hit;$/;"	m	class:CacheModule
+spectral_mi_bloom_filter	src/bf/bloom_filter/counting.cc	/^spectral_mi_bloom_filter::spectral_mi_bloom_filter($/;"	f	class:bf::spectral_mi_bloom_filter
+spectral_mi_bloom_filter	src/bf/bloom_filter/counting.h	/^class spectral_mi_bloom_filter : public counting_bloom_filter$/;"	c	namespace:bf
+spectral_rm_bloom_filter	src/bf/bloom_filter/counting.cc	/^spectral_rm_bloom_filter::spectral_rm_bloom_filter($/;"	f	class:bf::spectral_rm_bloom_filter
+spectral_rm_bloom_filter	src/bf/bloom_filter/counting.h	/^class spectral_rm_bloom_filter : public bloom_filter$/;"	c	namespace:bf
+sram_stored_packets	Cache.h	/^    uint64_t sram_stored_packets;$/;"	m	class:CacheModule
+ssd_rmlru	Cache.h	/^    uint64_t ssd_rmlru;$/;"	m	class:CacheModule
+stable_bloom_filter	src/bf/bloom_filter/stable.cc	/^stable_bloom_filter::stable_bloom_filter(hasher h, size_t cells, size_t width,$/;"	f	class:bf::stable_bloom_filter
+stable_bloom_filter	src/bf/bloom_filter/stable.h	/^class stable_bloom_filter : public counting_bloom_filter$/;"	c	namespace:bf
+start	unit_test_impl.hpp	/^void watchdog::start(int secs) {$/;"	f	class:caf::test::watchdog
+stats_table	Cache.h	/^    map<string , uint32_t> stats_table;$/;"	m	class:S_Cache
+stop	unit_test_impl.hpp	/^void watchdog::stop() {$/;"	f	class:caf::test::watchdog
+storage	src/bf/bloom_filter/basic.cc	/^bitvector const& basic_bloom_filter::storage() const$/;"	f	class:bf::basic_bloom_filter
+store_packets	Cache.cc	/^uint32_t S_Cache::store_packets(const string& key, $/;"	f	class:S_Cache
+stored_files	Cache.h	/^    uint32_t stored_files;$/;"	m	class:LRU_Table
+stored_files	Cache.h	/^    uint64_t stored_files;$/;"	m	class:CacheModule
+stored_packets	Cache.h	/^    uint32_t stored_packets;$/;"	m	class:LRU_Object
+stored_packets	Cache.h	/^    uint64_t stored_packets;$/;"	m	class:CacheModule
+str	unit_test_impl.hpp	/^std::string logger::stream::str() const {$/;"	f	class:caf::test::logger::stream
+str_	unit_test.hpp	/^    std::string str_;$/;"	m	class:caf::test::logger::level::stream
+stream	unit_test.hpp	/^  class stream {$/;"	c	class:caf::test::logger::level
+stream	unit_test_impl.hpp	/^logger::stream::stream(logger& l, level lvl) : logger_(l), level_(lvl) {$/;"	f	class:caf::test::logger::stream
+stream	unit_test_impl.hpp	/^logger::stream::stream(stream&& other)$/;"	f	class:caf::test::logger::stream
+suites_	unit_test.hpp	/^  std::map<std::string, std::vector<std::unique_ptr<test>>> suites_;$/;"	m	class:caf::test::logger::engine
+swap	src/bf/bitvector.cc	/^bitvector& bitvector::swap(bitvector& other){$/;"	f	class:bf::bitvector
+swap	src/bf/bloom_filter/basic.cc	/^void basic_bloom_filter::swap(basic_bloom_filter& other)$/;"	f	class:bf::basic_bloom_filter
+tail	Cache.h	/^    LRU_Object* head, *tail;$/;"	m	class:LRU_Table
+test	unit_test.hpp	/^class test {$/;"	c	namespace:caf::test
+test	unit_test.hpp	/^namespace test {$/;"	n	namespace:caf
+test	unit_test_impl.hpp	/^namespace test {$/;"	n	namespace:caf
+test	unit_test_impl.hpp	/^test::test(std::string test_name)$/;"	f	class:caf::test::test
+test_impl	unit_test.hpp	/^  test_impl(std::string test_name) : test(std::move(test_name)) {$/;"	f	class:caf::test::test_impl
+test_impl	unit_test.hpp	/^class test_impl : public test {$/;"	c	namespace:caf::test
+thread_	unit_test_impl.hpp	/^  std::thread thread_;$/;"	m	class:caf::test::watchdog
+to_string	src/bf/bitvector.cc	/^std::string to_string(bitvector const& b,$/;"	f	namespace:bf
+to_string	src/bf/counter_vector.h	/^  friend std::string to_string(counter_vector const& v, bool all = false,$/;"	f	class:bf::counter_vector
+total_stored_packets	Cache.h	/^    uint64_t total_stored_packets;$/;"	m	class:CacheModule
+trial	bf/util/trial.h	/^  trial(T x)$/;"	f	class:util::trial
+trial	bf/util/trial.h	/^  trial(error e)$/;"	f	class:util::trial
+trial	bf/util/trial.h	/^  trial(trial const& other)$/;"	f	class:util::trial
+trial	bf/util/trial.h	/^  trial(trial&& other)$/;"	f	class:util::trial
+trial	bf/util/trial.h	/^class trial$/;"	c	namespace:util
+uint128	city.h	/^typedef std::pair<uint64, uint64> uint128;$/;"	t
+uint32	city.h	/^typedef uint32_t uint32;$/;"	t
+uint32_in_expected_order	city.cc	100;"	d	file:
+uint32_in_expected_order	city.cc	97;"	d	file:
+uint64	city.h	/^typedef uint64_t uint64;$/;"	t
+uint64_in_expected_order	city.cc	101;"	d	file:
+uint64_in_expected_order	city.cc	98;"	d	file:
+uint8	city.h	/^typedef uint8_t uint8;$/;"	t
+unif_	src/bf/bloom_filter/stable.h	/^  std::uniform_int_distribution<> unif_;$/;"	m	class:bf::stable_bloom_filter
+update_object	Cache.cc	/^void LRU_Table::update_object(LRU_Object* obj, bool new_object){$/;"	f	class:LRU_Table
+usage	bf/util/configuration.h	/^  void usage(std::ostream& sink, bool show_all = false)$/;"	f	class:util::configuration
+util	bf/util/configuration.h	/^namespace util {$/;"	n
+util	bf/util/error.h	/^namespace util {$/;"	n
+util	bf/util/trial.h	/^namespace util {$/;"	n
+value	bf/util/trial.h	/^  T const& value() const$/;"	f	class:util::trial
+value	bf/util/trial.h	/^  T& value()$/;"	f	class:util::trial
+value	unit_test.hpp	/^  const T& value;$/;"	m	struct:caf::test::logger::detail::showable_base
+value_	bf/util/trial.h	/^    T value_;$/;"	m	union:util::trial::__anon1
+values_	bf/util/configuration.h	/^    std::vector<std::string> values_;$/;"	m	class:util::configuration::option
+verbose	unit_test.hpp	/^    verbose = 3,$/;"	m	class:caf::test::logger::level
+verbose	unit_test_impl.hpp	/^logger::stream logger::verbose() {$/;"	f	class:caf::test::logger
+verify	bf/util/configuration.h	/^  bool verify() const$/;"	f	class:util::configuration
+visible	bf/util/configuration.h	/^    bool visible() const$/;"	f	class:util::configuration::block
+visible	bf/util/configuration.h	/^    void visible(bool flag)$/;"	f	class:util::configuration::block
+visible_	bf/util/configuration.h	/^    bool visible_ = true;$/;"	m	class:util::configuration::block
+watchdog	unit_test_impl.hpp	/^  watchdog(int secs) {$/;"	f	class:caf::test::watchdog
+watchdog	unit_test_impl.hpp	/^class watchdog {$/;"	c	namespace:caf::test
+white	unit_test.hpp	/^  white$/;"	e	enum:caf::test::logger::color_value
+width	src/bf/counter_vector.cc	/^size_t counter_vector::width() const$/;"	f	class:bf::counter_vector
+width_	src/bf/counter_vector.h	/^  size_t width_;$/;"	m	class:bf::counter_vector
+wrap	src/bf/wrap.h	/^inline object wrap(std::string const& str)$/;"	f	namespace:bf
+wrap	src/bf/wrap.h	/^object wrap(T const (&str)[N])$/;"	f	namespace:bf
+wrap	src/bf/wrap.h	/^object wrap(T const& x)$/;"	f	namespace:bf
+wrap	src/bf/wrap.h	/^object wrap(std::vector<T> const& s)$/;"	f	namespace:bf
+write_for_storings	Cache.h	/^    uint64_t write_for_storings;$/;"	m	class:CacheModule
+write_outoforder	Cache.h	/^    uint64_t write_outoforder;$/;"	m	class:CacheModule
+writecache_pcks	Cache.h	/^    uint64_t writecache_pcks;$/;"	m	class:S_Cache
+writecache_rmlru	Cache.h	/^    uint64_t writecache_rmlru;$/;"	m	class:CacheModule
+yellow	unit_test.hpp	/^  yellow,$/;"	e	enum:caf::test::logger::color_value
+zero_pcks	Cache.h	/^    uint64_t zero_pcks;$/;"	m	class:S_Cache
+zero_unused_bits	src/bf/bitvector.cc	/^void bitvector::zero_unused_bits()$/;"	f	class:bf::bitvector
+~CacheModule	Cache.h	/^    ~CacheModule(){$/;"	f	class:CacheModule
+~S_Cache	Cache.h	/^    ~S_Cache(){$/;"	f	class:S_Cache
+~test	unit_test_impl.hpp	/^test::~test() {$/;"	f	class:caf::test::test
+~trial	bf/util/trial.h	/^  ~trial()$/;"	f	class:util::trial
+~watchdog	unit_test_impl.hpp	/^  ~watchdog() {$/;"	f	class:caf::test::watchdog

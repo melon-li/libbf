@@ -1,0 +1,10 @@
+Put /D1/195386/687161
+Put /D1/195386/687162
+Put /D1/195386/687163
+Put /D1/195386/687164
+Put /D1/195386/687165
+Put /D1/195386/687166
+false_positive_cnt = 127288fp = 0.0336206 read_dram_cnt = 428770 miss = 3484525 hits = 1898491 slow_memory_hits = 1900116 fast_memory_hits = 1597009
+ fp_w = 0.0451408 false_positive_cnt_w = 158630 false_positive_cnt_w_test = 8820 cache_packet_bf_lookup = 3514118
+
+
